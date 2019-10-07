@@ -18,3 +18,5 @@ https://academic.oup.com/bioscience/article/58/11/1079/265001/
 http://q4b.biology.ubc.ca/concept-inventories/statistical-reasoning-in-biology/
 
 https://www.macalester.edu/hhmi/biosquare/
+
+http://visionandchange.org/about-vc-a-call-to-action-2011/
