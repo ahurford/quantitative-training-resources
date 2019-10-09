@@ -30,4 +30,5 @@ These materials are hosted on Github to promote openness and collaboration to ca
 3. Make your edits to the file on your computer. If the file is an .md, .txt, or .csv you need to keep to keep it simple (i.e., don't add figures).
 4. When you are finished your edits, try to save the file in it's original format: same name and same extension (if you are not able this is not a big deal).
 5. Open a web browser and go to the Github repository online. Navigate through the file system to find the folder you wish to submit your file to (i.e. the location of the original file you downloaded).
-6. You should see the option to `Upload file'. 
+6. You should see the option to 'Upload file'. If you do not, try navigating to a higher level of the folder structure.
+7. You may be prompted to log in to Github, and you may be prompted to fork the repository, i.e. create your own `branch`.
