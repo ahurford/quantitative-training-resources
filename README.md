@@ -13,8 +13,8 @@ These materials are hosted on Github to promote openness and collaboration to ca
 1. You need a github account. This is to keep track of who is recommending changes.
 2. If you just have comments, then submit these as an `issue`.
 3. If you want to make edits, then you have two options:
-  a. Edit directly on the github website
-  b. Download the file and edit it locally using your own software.
+  * a. Edit directly on the github website
+  * b. Download the file and edit it locally using your own software.
   
 ### a. Editing directly on the github website
 1. Some files, notably .csv, .md, and .txt formats, can be edited directly on github.
