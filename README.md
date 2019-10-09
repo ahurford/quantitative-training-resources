@@ -24,4 +24,9 @@ These materials are hosted on Github to promote openness and collaboration to ca
 5. When are ready for your changes to be reviewed by a collaborator (or the owner), then you need to submit a `pull` request. This should be another big green button. If you don't have the option to submit a `pull` request, the problem may be that you haven't committed your most recent changes.
 6. If a long time passes between when you `fork` the repository and when you submit the `pull` request, there may be conflicts and this may make it more difficult to merge your changes into the `master` branch.
 
-### b. Download and edit using your own softward
+### b. Download and edit files using your own software
+1. Navigate through the folder system to the file you want to suggest edits on.
+2. If the file is a .pdf or a .docx you should see a button to download the file. If the file is .md, .txt, or .csv then you won't see the download button. Instead on the righthand side of the page you should able to select the `Raw` tab. Copy and paste all the text from the `Raw` file into a text editor (Microsoft Word, TextEdit, etc).
+3. Make your edits to the file on your computer. If the file is an .md, .txt, or .csv you need to keep to keep it simple (i.e., don't add figures).
+4. When you are finished your edits, try to save the file in it's original format: same name and same extension (if you are not able this is not a big deal).
+5. 
