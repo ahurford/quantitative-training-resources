@@ -30,5 +30,7 @@ These materials are hosted on Github to promote openness and collaboration to ca
 3. Make your edits to the file on your computer. If the file is an .md, .txt, or .csv you need to keep to keep it simple (i.e., don't add figures).
 4. When you are finished your edits, try to save the file in it's original format: same name and same extension (if you are not able this is not a big deal).
 5. Open a web browser and go to the Github repository online. Navigate through the file system to find the folder you wish to submit your file to (i.e. the location of the original file you downloaded).
-6. You should see the option to 'Upload file'. If you do not, try navigating to a higher level of the folder structure.
-7. You may be prompted to log in to Github, and you may be prompted to fork the repository, i.e. create your own `branch`.
+6. You should see the option to `Upload file`. If you do not, try navigating to a higher level of the folder structure. Alternatively, if the file is .md or .txt you might click the `pencil` icon, then delete this 
+7. You may be prompted to log in to Github, and you may be prompted to fork the repository, i.e. create your own `branch`. A  `branch` is your personal copy of the repository. You have been asked to create a `branch` because you do not have permission to change the `master` (the main) branch of the repository.
+8. To save the changes to your `branch` you need to `commit` them (big green button). If unavailable you may need to provide a title and description of the changes.
+9. To have your changes reviewed for potential inclusion on the `master` branch you need to submit a `pull` request. This should be a big green button at the bottom of the screen. If unavailable you may need to `commit` your changes first, or provide a title and description of your changes.
