@@ -23,3 +23,6 @@ https://www.macalester.edu/hhmi/biosquare/
 Vision and change (biology curiculuum): http://visionandchange.org/about-vc-a-call-to-action-2011/
 
 Let's train more theoretical ecologists: https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30171-5
+
+# BIOL 4605
+http://www.mun.ca/biology/schneider/b4605/
