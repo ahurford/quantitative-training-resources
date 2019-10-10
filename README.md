@@ -10,12 +10,13 @@ These materials are hosted on Github to promote openness and collaboration to ca
 4. What am I looking at? You're looking at a files organized into folders. Navigate throught the folders to the document you want to read.
 
 ## How can I contribute?
-1. You need a github account. This is to keep track of who is recommending changes.
-2. If you just have comments, then submit these as an `issue`.
-3. If you want to make edits, then you have two options:
+1. If do not wish to use github yourself, then you can email me ahurford@mun.ca and please indicated if you give permission for your contributions to be added to the repository. If you're ready to give github a try then go to 2.
+2. You need a github account. This is to keep track of who is recommending changes.
+3. If you just have comments, then submit these as an `issue`.
+4. If you want to make edits, then you have two options:
   * a. Edit directly on the github website
   * b. Download the file and edit it locally using your own software.
-4. You can also add a file to the repository.
+5. You can also add a file to the repository.
   
 ### 3a. Editing directly on the github website
 1. Some files, notably .csv, .md, and .txt formats, can be edited directly on github.
