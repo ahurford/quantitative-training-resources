@@ -10,7 +10,8 @@ https://bookdown.org/ndphillips/YaRrr/
 
 # Books currently held at QEII
 - A biologists guide to mathematical modelling by Sarah Otto and Troy Day
-- The analysis of biological data by Micheal Whitlock and Dolph Schluter
+- The analysis of biological data by Micheal Whitlock and Dolph Schluter (more advanced then deVeaux et al.)
+- deVeaux (accessible, well done, stats text)
 
 # Links to articles
 https://academic.oup.com/bioscience/article/58/11/1079/265001/
