@@ -1,7 +1,7 @@
 # Links to e-books
-https://learningstatisticswithr.com/
+PDF how to use R: https://learningstatisticswithr.com/
 
-https://bookdown.org/ndphillips/YaRrr/
+Pirates guide to R: https://bookdown.org/ndphillips/YaRrr/
 
 # Books requested to be purchased at QEII
 - Biocalculus, probability, and statistics for the life sciences by James Stewart and Troy Day
@@ -20,4 +20,6 @@ http://q4b.biology.ubc.ca/concept-inventories/statistical-reasoning-in-biology/
 
 https://www.macalester.edu/hhmi/biosquare/
 
-http://visionandchange.org/about-vc-a-call-to-action-2011/
+Vision and change (biology curiculuum): http://visionandchange.org/about-vc-a-call-to-action-2011/
+
+Let's train more theoretical ecologists: https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30171-5
