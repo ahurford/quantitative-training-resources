@@ -26,5 +26,7 @@ Let's train more theoretical ecologists: https://www.cell.com/trends/ecology-evo
 
 The ASA statment on p-values explained: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5187603/
 
+On data visualization beyone line and bar plots: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128
+
 # BIOL 4605
 http://www.mun.ca/biology/schneider/b4605/
