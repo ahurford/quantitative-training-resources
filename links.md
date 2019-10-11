@@ -24,5 +24,7 @@ Vision and change (biology curiculuum): http://visionandchange.org/about-vc-a-ca
 
 Let's train more theoretical ecologists: https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30171-5
 
+The ASA statment on p-values explained: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5187603/
+
 # BIOL 4605
 http://www.mun.ca/biology/schneider/b4605/
