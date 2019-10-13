@@ -145,34 +145,27 @@
 }
 \chapter{Introduction}\label{introduction}
 
-This is a \emph{sample} book written in \textbf{Markdown}. You can use
-anything that Pandoc's Markdown supports, e.g., a math equation
-\(a^2 + b^2 = c^2\).
-
-The \textbf{bookdown} package can be installed from CRAN or Github:
-
-\begin{Shaded}
-\begin{Highlighting}[]
-\KeywordTok{install.packages}\NormalTok{(}\StringTok{"bookdown"}\NormalTok{)}
-\CommentTok{# or the development version}
-\CommentTok{# devtools::install_github("rstudio/bookdown")}
-\end{Highlighting}
-\end{Shaded}
-
-Remember each Rmd file contains one and only one chapter, and a chapter
-is defined by the first-level heading \texttt{\#}.
-
-To compile this example to PDF, you need XeLaTeX. You are recommended to
-install TinyTeX (which includes XeLaTeX):
-\url{https://yihui.name/tinytex/}.
+\begin{itemize}
+\tightlist
+\item
+  Why is this important
+\item
+  Why have we made the choices we did
+\end{itemize}
 
 \chapter{Software requirements}\label{intro}
 
 \section{R}\label{r}
 
+Each section will contain instructions describing how to install these
+software.
+
 \section{RStudio}\label{rstudio}
 
 \section{Github}\label{github}
+
+Below is the example code from the \emph{How to use Markdown} files.
+Just remains for help on how to use .Rmd code
 
 You can label chapter and section titles using \texttt{\{\#label\}}
 after them, e.g., we can reference Chapter \ref{intro}. If you do not
@@ -253,19 +246,84 @@ was built on top of R Markdown and \textbf{knitr} \citep{xie2015}.
 
 \chapter{Writing your first R script}\label{writing-your-first-r-script}
 
+\begin{itemize}
+\tightlist
+\item
+  This section explains the difference between the R console and window.
+  When would you use each?
+\item
+  You can open R files in a text editor.
+\item
+  You can write R files in a text editor and save as .R
+\item
+  Explains \texttt{Run} versus \texttt{Source}
+\end{itemize}
+
 \chapter{Entering data}\label{entering-data}
 
 Here is a review of existing methods.
 
 \section{Directly into R}\label{directly-into-r}
 
+\begin{itemize}
+\tightlist
+\item
+  common errors
+\end{itemize}
+
 \section{Importing a .csv into R}\label{importing-a-.csv-into-r}
+
+\begin{itemize}
+\tightlist
+\item
+  Using the file path
+\item
+  Using `Import Dataset'.
+\item
+  common errors
+\end{itemize}
 
 \chapter{Plotting}\label{plotting}
 
-We describe our methods in this chapter.
+\begin{itemize}
+\tightlist
+\item
+  The plot command
+\item
+  options for the plot command
+\item
+  command errors
+\item
+  saving the figures
+\item
+  scrolling back through figures in RStudio
+\end{itemize}
 
 \chapter{Data submission}\label{data-submission}
+
+\begin{itemize}
+\tightlist
+\item
+  via upload file into github
+\item
+  direct edit of github
+\end{itemize}
+
+\chapter{Getting help}\label{getting-help}
+
+\section{With R/RStudio}\label{with-rrstudio}
+
+\begin{itemize}
+\tightlist
+\item
+  Internet
+\item
+  \texttt{?plot} and \texttt{??plot}
+\item
+  TAs, instructor, helpcenter, class mates
+\end{itemize}
+
+\section{With Githbu}\label{with-githbu}
 
 \bibliography{book.bib,packages.bib}
 

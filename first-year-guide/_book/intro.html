@@ -13,7 +13,7 @@
   
   
   <meta property="og:description" content="Reference guide for first year biology" />
-  <meta name="github-repo" content="to be added" />
+  <meta name="github-repo" content="https://github.com/ahurford/quantitative-training-resources/tree/master/first-year-guide" />
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="Chapter 2 Software requirements | Data management and plotting for BIOL 1001 and beyond" />
@@ -116,6 +116,10 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 </ul></li>
 <li class="chapter" data-level="5" data-path="plotting.html"><a href="plotting.html"><i class="fa fa-check"></i><b>5</b> Plotting</a></li>
 <li class="chapter" data-level="6" data-path="data-submission.html"><a href="data-submission.html"><i class="fa fa-check"></i><b>6</b> Data submission</a></li>
+<li class="chapter" data-level="7" data-path="getting-help.html"><a href="getting-help.html"><i class="fa fa-check"></i><b>7</b> Getting help</a><ul>
+<li class="chapter" data-level="7.1" data-path="getting-help.html"><a href="getting-help.html#with-rrstudio"><i class="fa fa-check"></i><b>7.1</b> With R/RStudio</a></li>
+<li class="chapter" data-level="7.2" data-path="getting-help.html"><a href="getting-help.html#with-githbu"><i class="fa fa-check"></i><b>7.2</b> With Githbu</a></li>
+</ul></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
@@ -141,12 +145,14 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <h1><span class="header-section-number">Chapter 2</span> Software requirements</h1>
 <div id="r" class="section level2">
 <h2><span class="header-section-number">2.1</span> R</h2>
+<p>Each section will contain instructions describing how to install these software.</p>
 </div>
 <div id="rstudio" class="section level2">
 <h2><span class="header-section-number">2.2</span> RStudio</h2>
 </div>
 <div id="github" class="section level2">
 <h2><span class="header-section-number">2.3</span> Github</h2>
+<p>Below is the example code from the <em>How to use Markdown</em> files. Just remains for help on how to use .Rmd code</p>
 <p>You can label chapter and section titles using <code>{#label}</code> after them, e.g., we can reference Chapter <a href="intro.html#intro">2</a>. If you do not manually label them, there will be automatic labels anyway, e.g., Chapter <a href="#methods"><strong>??</strong></a>.</p>
 <p>Figures and tables with captions will be placed in <code>figure</code> and <code>table</code> environments, respectively.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">par</span>(<span class="dt">mar =</span> <span class="kw">c</span>(<span class="dv">4</span>, <span class="dv">4</span>, .<span class="dv">1</span>, .<span class="dv">1</span>))
@@ -380,20 +386,6 @@ gitbook.start({
 });
 </script>
 
-<!-- dynamically load mathjax for compatibility with self-contained -->
-<script>
-  (function () {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    var src = "";
-    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
-    if (location.protocol !== "file:")
-      if (/^https?:/.test(src))
-        src = src.replace(/^https?:/, '');
-    script.src = src;
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
-</script>
 </body>
 
 </html>

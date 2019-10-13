@@ -1,1 +1,6 @@
 # Writing your first R script
+
+- This section explains the difference between the R console and window. When would you use each?
+- You can open R files in a text editor.
+- You can write R files in a text editor and save as .R
+- Explains `Run` versus `Source`

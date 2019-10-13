@@ -3,8 +3,11 @@
 Here is a review of existing methods.
 
 ## Directly into R
+- common errors
 
 ## Importing a .csv into R
-
+- Using the file path
+- Using `Import Dataset'.
+- common errors
 
 

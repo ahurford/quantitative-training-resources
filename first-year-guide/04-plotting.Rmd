@@ -1,3 +1,7 @@
 # Plotting
 
-We describe our methods in this chapter.
+- The plot command
+- options for the plot command
+- command errors
+- saving the figures
+- scrolling back through figures in RStudio
