@@ -1,0 +1,10 @@
+# Entering data
+
+Here is a review of existing methods.
+
+## Directly into R
+
+## Importing a .csv into R
+
+
+
