@@ -28,5 +28,9 @@ The ASA statment on p-values explained: https://www.ncbi.nlm.nih.gov/pmc/article
 
 On data visualization beyone line and bar plots: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128
 
+Setting the agenda for computational ecology: https://ojs.library.queensu.ca/index.php/IEE/article/view/13252
+
+Poisot workshop schedule: https://poisotlab.io/ddes/
+
 # BIOL 4605
 http://www.mun.ca/biology/schneider/b4605/
