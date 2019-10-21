@@ -5,5 +5,11 @@
 1. Words -> Graph -> Equation (Lab 2)
 1. Units (Parameter table).
 1. What is a quantity: name, symbol, units, procedural statment (how measured), typical values. Scientists use quantities.
-1. Agency
+1. Agency - notation
+1. Exercise: find the units
+1. Agency in model type: If you predict something increases, and the predictor variable is continuous, the default model is linear, but you can choose the model associated with your prediction.
+1. Assess whether your model is good by visual inspection of the residuals.
+1. Type I and type II errors, in response to moving away from alpha = 0.05.
+1. Choosing the right type of graph for your data / data visualization.
+
 
