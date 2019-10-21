@@ -32,5 +32,7 @@ Setting the agenda for computational ecology: https://ojs.library.queensu.ca/ind
 
 Poisot workshop schedule: https://poisotlab.io/ddes/
 
+Teaching R to undergraduates: https://www.biorxiv.org/content/10.1101/666768v1
+
 # BIOL 4605
 http://www.mun.ca/biology/schneider/b4605/
