@@ -5,4 +5,5 @@
 1. Words -> Graph -> Equation (Lab 2)
 1. Units (Parameter table).
 1. What is a quantity: name, symbol, units, procedural statment (how measured), typical values. Scientists use quantities.
+1. Agency
 
