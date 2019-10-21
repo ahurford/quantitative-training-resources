@@ -2,12 +2,15 @@
 These materials are hosted on Github to promote openness and collaboration to capitalize on a diversity of skills and interest in quantitative training within the department.
 
 ## Facts about Github
-1. Github hosts repositories: collections of documents organized in folders. Github is designed with the idea that you want to download all the files, however, you can work around this and download individual files. Should you want to maintain an up-to-date version of the entire repository, Github Desktop can be helpful.
-2. Github is like having your Dropbox files open to the public, while allowing the public to edit your Dropbox files.
-3. What if someone deletes all the files or messes them up? There are two reasons this can't happen:
+1. Github hosts repositories: collections of documents organized in folders.
+2. What am I looking at? You're looking at a files organized into folders. Navigate throught the folders to the document you want to read. Some files my have confusing extensions like .md or .gitignore. The .md files are text files: you can open them in a text editor, but they are easy to read and edit on the github website. The .gitignore file can be ignored.
+3. Github is like having your Dropbox files open to the public, while allowing the public to edit your Dropbox files. This is the power of Github in facilitating collaboration.
+4. What if someone deletes all the files or messes them up? There are two reasons this can't happen:
   - contributors can only recommend changes to the repository, for the changes to be adopted they need to be approved by the owner or a collaborator; and
   - if a 'bad' change is accidently approved, the history of all commits to the repository are logged anyway. To delete a file, you would need to make a commit, and so it is possible to trace back through the commit history and restore a deleted the file.
-4. What am I looking at? You're looking at a files organized into folders. Navigate throught the folders to the document you want to read.
+5. If the power of Github is in facilitating open collaboration, everything 'complicated' about Github arises from the need to keep track of, and control, who makes what changes to which version of the repository. 
+6. Github is designed with the idea that you want to download all the files, however, you can work around this and download individual files. Should you want to maintain an up-to-date version of the entire repository, Github Desktop can be helpful.
+
 
 ## How can I contribute?
 1. If do not wish to use github yourself, then you can email me ahurford@mun.ca and please indicated if you give permission for your contributions to be added to the repository. If you're ready to give github a try then go to 2.
