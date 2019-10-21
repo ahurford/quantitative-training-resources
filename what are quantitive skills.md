@@ -11,5 +11,6 @@
 1. Assess whether your model is good by visual inspection of the residuals.
 1. Type I and type II errors, in response to moving away from alpha = 0.05.
 1. Choosing the right type of graph for your data / data visualization.
+1. How to sell 'boring' stuff.
 
 
