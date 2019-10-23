@@ -20,6 +20,8 @@ http://q4b.biology.ubc.ca/concept-inventories/statistical-reasoning-in-biology/
 
 https://www.macalester.edu/hhmi/biosquare/
 
+Teaching R coding: https://www.lifescied.org/doi/full/10.1187/cbe.19-02-0041
+
 Vision and change (biology curiculuum): http://visionandchange.org/about-vc-a-call-to-action-2011/
 
 Let's train more theoretical ecologists: https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30171-5
