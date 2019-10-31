@@ -1,4 +1,4 @@
-1. Reading graphs. This could include readig a phylogeny.
+1. Reading graphs. This could include reading a phylogeny.
 1. knowing the equation for a straight line in non-conventional notation
 1. Being able to sketch graphs
 1. Respecting notation, i.e. don't define f(N1) = N1 and f(N2) = N2^2. If f(N1) = N1, then f(N2) = N2, and to avoid this a new function must be defined: g(x) = x^2, such that g(N2) = N2^2.
@@ -11,6 +11,7 @@
 1. Assess whether your model is good by visual inspection of the residuals.
 1. Type I and type II errors, in response to moving away from alpha = 0.05.
 1. Choosing the right type of graph for your data / data visualization.
-1. How to sell 'boring' stuff.
-
-
+1. How to sell 'boring' stuff?
+1. Log scales.
+1. Integration.
+1. Error propagation and error estimates.
