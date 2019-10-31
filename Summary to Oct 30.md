@@ -1,8 +1,8 @@
-The revision of the biology curiculuum with respect to quantitative training should have two goals:
+The revision of the biology curiculuum with respect to quantitative training should have two objectives:
 1. Prepare biology majors for quantitative skills that are expected in 3000 and 4000 courses in their choosen stream; and
 2. Upon completing our BSc program (or potentially only specific streams of our program), if a student were given data and some context, the student can apply their biological knowledge to form a hypothesis, and make some progress on assessing whether the data support their hypothesis using statistics and/or data visualization.
 
-1. will be addressed by surveying the faculty to identify what skills are considered necessary. Potentially, 1. may be entirely subsumed under 2.
+Objective 1. will be addressed by surveying the faculty to identify what skills are considered necessary. Potentially, 1. may be entirely subsumed under 2.
 
 Deconvolving 2., currently, the statistical knowledge from BIOL 4605 is excellent, but goes beyond what is needed to minimally fulfil 2. By integrating some aspects of BIOL 4605 into our existing courses, and consulting with math to make sure STAT 2550 is 'working for us', we can, in my view achieve a reasonable level of statistical understanding. Having had some very good conversations with DS, here are some simple steps that would yield substantial progress.
 
