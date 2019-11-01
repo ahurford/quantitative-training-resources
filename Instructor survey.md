@@ -2,19 +2,29 @@
 
 1. Name:
 
+2. Which stream do you most closely identify with?
+
 2. Courses taught:
 
 3. Quantitative skills you expect:
+Statistics and math
 a. Reading graphs
-b. Reading graphs with transformed axes
+b. Reading graphs with transformed axes (e.g. log scales)
 c. Understanding statistical quantities such as p-values, and 
 d. Ability to rearrange and solve simple algebraic equations
+h. Probability theory, i.e. the Poisson distribution, its shape and what it calculates; what it means if quantities are independent.
+Reading phyolgenies
+Data visualization
+
+Programming
 e. Make graphs on a computer
 f. Make graphs in R
 g. Run statistics in R
-h. Probability theory, i.e. the Poisson distribution, its shape and what it calculates; what it means if quantities are independent.
-i. Reading or making phylogenies
-j. R programming skills related to reformatting data to perform statistic
+Making phylogenies
+j. Data cleaning and manipulation
+i. Analysis of dynamical systems i.e. Lotka-Volterra predator-prey
+Running simulation models
+
 
 4. Quantitative skills you teach:
 
@@ -28,5 +38,5 @@ d. BIOL 4605 should be moved to second year and replace STAT 2550 as a required 
 
 7. What is your view of programming skills within our major:
 a. We should require a course from CS to meet our needs
-b. A course related to programming is not needed
+b. No changes are needed
 c. We should develop a BIOL required course in which programming is a key component
