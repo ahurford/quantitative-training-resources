@@ -74,3 +74,9 @@ We should develop a policy on our expectations (i.e., are undergrads expected to
 
 ## Teaching communication and collaboration
 Both Vision and Change and Hampton et al. 2017, highlight communication skills as a key aspect of data science training. YW has mentioned an interest in this area. To my understanding, the references are not so much referring to social media or giving talks, but how to communicate to participate in interdisciplinary collaborations.
+
+## Streams
+We need to work on tightening up our streams as recommended in the AUP, including the Quantitative/field stream.
+
+## Modelling
+Vision and Change highlights the importance of modelling. So far, my recommendations focus mainly around stats and data science.
