@@ -24,6 +24,8 @@ Deconvolving 2., currently, the statistical knowledge from BIOL 4605 is excellen
 ## Data visualization, archiving, programing
 The second aspect of goal 2. is data visualization, which requries skills in programming, and data manipulation. I suspect we may need a dedicated 2000- course for this (and possibly it is appropritate to bring Lourdes' bioinformatics course down to 2000-). We need to reduce our required course load, and, ideally, to the extent that double majors with geogaraphy, math, stats, and computer science could be possible. Data visualization might also include mapping, and should cover the PLOS Computational Biology paper that talks about why bar graphs with 95% CIs can obscure key information (in the links.md file). Better alternatives are beeswarm plots and violin plots and anyone can make these now with R. This course might also touch on clipart, copyright, conceptual diagrams.
 
+https://datacarpentry.org/semester-biology/schedule/
+
 ## General comments
 A key aspect of making progress is continuity across courses within the major including STAT 2550 (Vision and Change can be cited regarding the importance of this point). What we are teaching about 'how to make a graph in R' in first or second year needs to flow up to third and fourth year. To this extent, we need to maintain public (github) and private (brightspace) repositories of our teaching materials. I will hire a TA whose job will be to assemble documentation on how to do particular R tasks, which will be maintained as a bookdown file. As such, it will be available in pdf and ebook. I will consult with Lourdes for this, but ideally this task is a matter of finding links to existing good explanations, for example, the relevant sections of the Pirates Guide to R.
 
