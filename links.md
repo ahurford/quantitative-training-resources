@@ -3,6 +3,8 @@ PDF how to use R: https://learningstatisticswithr.com/
 
 Pirates guide to R: https://bookdown.org/ndphillips/YaRrr/
 
+BES Data manifesto: https://www.rss.org.uk/RSS/Influencing_Change/Data_democracy_sub/Data_manifesto.aspx?WebsiteKey=bc86df55-c2ae-4d73-8450-66ecc8988ded&hkey=5dd70207-82e7-4166-93fd-bcf9a2a1e496
+
 # Books requested to be purchased at QEII
 - Biocalculus, probability, and statistics for the life sciences by James Stewart and Troy Day
 - Modeling the dynamics of life: calculus and probability for the life scientists by Frederick Adler
