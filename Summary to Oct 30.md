@@ -48,7 +48,7 @@ We will maintain resources and guidelines to help with quantitative content in 2
 
 1. We need to be consistently reporting the spread of data and discussing overlap with respect to Type II error.
 
-1. ggplot and RStudio. Personally, don't use ggplot, but https://stat545.com/index.html makes a compelling argument for it.
+1. ggplot and RStudio. Personally, I don't use ggplot, but https://stat545.com/index.html makes a compelling argument for it.
 
 ## Recommendations for each year
 With the BIOL 1001/1002 lab manuals now available as ebooks (and publically available), instructors in upper level courses should be knowledgeable of what is taught in first year and be knowledgable as to if what they are recommending conflicts. We should set specific goals for expectations at the end of second, third and fourth years. Competency E1 on p22 of Scientific Foundations for Future Physicians (https://store.aamc.org/scientific-foundations-for-future-physicians-pdf.html) has some good comments.
