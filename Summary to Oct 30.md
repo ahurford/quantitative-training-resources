@@ -1,8 +1,9 @@
 These are my _prelimary_ ideas as of Oct 30, 2019, but I have not consulted widely enough to be confidence in these recommendations at this point. As such, I welcome feedback. My current thoughts are shaped by Hampton et al. 2017, which I highly recommend (https://academic.oup.com/bioscience/article/67/6/546/3784601).
 
-The revision of the biology curiculuum with respect to quantitative training should have two objectives:
-1. Prepare biology majors for quantitative skills that are expected in 3000 and 4000 courses in their choosen stream; and
-2. Upon completing our BSc program (or potentially only specific streams of our program), if a student were given data and some context, the student can apply their biological knowledge to form a hypothesis, and make some progress on assessing whether the data support their hypothesis using statistics and/or data visualization.
+The revision of the biology curiculuum with respect to quantitative training should have three objectives:
+1. Give biology majors training in the quantitative skills that are necessary for successful completion of 3000 and 4000 courses in their choosen stream (these skills should include those listed in Table 2 of Hampton et al. 2017);
+2. Foster quantitative literacy. In additon to basic numeracy, quantitative literacy implies that students will graduate wth the skills to critically assess and evaluate formal presentations of data and quantiative analyses (e.g., in a report, journal article). Not all students will graduate to be coders or statistical wizards, but all of our students should be comforatable reading and analysing papers with quantitaitve methods appropriate to their steam/specialization (for example, statistical analyses, mathematical models, large data sets, graphs, computer code). 
+3. Develop students' confidence in handling and interpreting data. At minimmum, upon completing our BSc program (or potentially only specific streams of our program), if a student were given data and some context, the student can apply their biological knowledge to form a hypothesis, and make some progress on assessing whether the data support their hypothesis using statistics and/or data visualization.
 
 ## BIOL 1001/1002
 Biology 1001 and 1002 lectures seems tightly focused around Campbell Biology, and as such, there is limited opportunity to deviate from the textbook.
@@ -11,6 +12,10 @@ Biology 1001 and 1002 lectures seems tightly focused around Campbell Biology, an
 ### Revise lab manual text to give an updated description of what biologists do
 The lab manual needs to be edited to communicate current practices for researchers. Particularly, in Appendix II, beginning on p118, comments around 'The Scientific Method', 'How Researchers communicate their findings', and 'Graphs and Tables' need to be revised. In addition, the roles of statistics in biology and modelling as an approach to doing science needs to be communicated.
 
+### Terminology/Definitions/Key Concepts
+
+Upon completion of first year Biology, students should be familiar with the following terms/concepts: independent/dependent variable, x/y axis, positive/negative trend, linear/non-linear relationship, mean, standard deviation, normal distributions, sample vs. population, random sampling
+
 ### Tables
 Data archiving standards for professional biologists have now moved beyond writing results in a notebook, and we need to give the students exposure to these expectations. We should ask first year students to archive data in an electronic format and submit to a github repository. This requirement needs to be supported by readings/text that explain that this is the current recommendation. We might also discuss what is metadata and Ecological Metadata Language (https://joss.theoj.org/papers/10.21105/joss.01276). We need to provide training/documentation for lab instructors and TAs on github. 
 
@@ -18,7 +23,7 @@ Data archiving standards for professional biologists have now moved beyond writi
 Similarly, professional biologists have moved beyond making graphs using pencil and paper! Perhaps this isn't the place to introduce R, and we could accept graphs made in a variety of softwares, while also have developed resources for R, RStudio, and ggplot. Expectations around figure captions should be revised.
 
 ### Statistics
-Having not yet required STAT 2550, BIOL 1001/1002 is not the place to start in on statistics, but it is the place to better prepare students for (1) the importance of statistics in biology; and (2) key concepts in statistics.
+Having not yet required STAT 2550, BIOL 1001/1002 is not the place to start in on statistics, but it is the place to better prepare students for (1) the importance of statistics in biology; and (2) key concepts in statistics (see terminology/definition list above).
 
 (1) will be address by revisions to the lab manual.
 
@@ -26,7 +31,7 @@ Regarding (2), (and these recommendations are made primarily from my conversatio
 
 1. Currently, first year students are taught to write a hypothesis and a prediction. We need to add: sketch a graph of the results if your hypothesis was supported; draw a graph if your hypothesis is not supported; and write the equations that correspond to each of your graphs. To teach this we need to say, 'if you think _y_ increases with _x_, but you're not quite sure exactly how, the default assumption, given that _x_ is a continous variable, is that there is a linear relationship, _y=mx+c_. In writing the equations, students get to choose their notation. This is powerful, because biology involves a lot of non-conventional notation, for example, dN/dt = r N (exponential growth), if dN/dt is plotted on the y-axis, and N is plotted on the x-axis, is a straight line with a zero y-intercept and a slope of r, but the notation is a barrier because it isn't in the form _y = mx_.
 
-1. We need to expect that some indication of spread is reported, i.e. error bars on bar plots where the error bars represent the range (i.e. from the min to the max observation) and the figure caption is required to specify what the error bars show.
+2. We need to expect that some indication of spread is reported, i.e. error bars on bar plots where the error bars represent the range (i.e. from the min to the max observation) and the figure caption is required to specify what the error bars show.
 
 ### Add/Remove labs
 We should add labs to introduce students to data science by removing some of the labs that are focused more specifically around knowledge reinforcement from lecture. At least one lab needs to be added to prepare students for our new expectations on data archiving and graphs.
@@ -38,9 +43,15 @@ The BIOL 1001 and 1002 lab manuals will be available as ebooks as well as hardco
 I recommend introducing a required second your course that is "Datacarpentary in Biology" or "Introduction to data science for biologists". The course could draw on materials from here: https://datacarpentry.org/semester-biology/schedule/
 
 ## Recommendations for BIOL 2000-level courses and beyond
-We will maintain resources and guidelines to help with quantitative content in 2000- and above courses. Some recommendations are:
+We will maintain resources and guidelines to help with quantitative content in 2000- and above courses. Resources could include ready-made activities and exercises for use in lecture and/or lab, as well as training/workshops for faculty and lab instructors/TAs. 
+
+Some recommendations for learning outcomes are:
 
 1. Discuss Type I and Type II errors (Type I: alarm, no fire; Type II: fire, no alarm). The statement from American Statistical Association advocating the downfall of alpha = 0.05, if I understand DS correctly, should now be replaced with a discussion of the types of questions where lower or higher acceptable Type II errors are appropriate, for example, a fire with no alarm is a life and death matter; if my oven timer doesn't go off, then dinner will get burnt which is much less serious and as such a higher Type II error is acceptible for the latter. (I need to read and consult further on this point).
+
+1. Increase awareness about the importance of sampling design and the implications of different sampling approaches (random, haphazarad, stratified random) on analyses and inference. This could be done in lectures through illustrating concepts with figure and images from real-world reserarch papers (if your own, even better) and through simple lab exericses that have students sample from a population and analyse the data. 
+
+1. Increase awareness about the imporance of experimental design and how decisions about experimental design affect which statistical tests are appropriate. Some of this may overlap concepts taughts in STAT 2550, but illustrting these with Biology examples will increase undertanding. Key concepts related to experimental design that students should be comfortable with at the end of the 2000-level courses include: treatment/control, sampling replicates vs. experimental replicate (some areas of biology term these technical replicate vs. biological replication), pseudoreplication, block design, randomized block design.  
 
 1. All graphs should be accompanied by their formulas and in non-conventional notation, if appropriate, to encourage better familiarity with the shapes of functions and non-conventional notational. 
 
@@ -70,10 +81,10 @@ To introduce a new second year course that is required we will need to elimate a
 A key aspect of making progress is continuity across courses within the major including STAT 2550 (Vision and Change can be cited regarding the importance of this point). What we are teaching about 'how to make a graph in R' in first or second year needs to flow up to third and fourth year. To this extent, we need to maintain public (github) and private (brightspace) repositories of our teaching materials.
 
 ## Computing and software requirements
-We should develop a policy on our expectations (i.e., are undergrads expected to have access to a personal computer) and quantify demand for departmental computing resources.
+We should develop a policy on our expectations (i.e., are undergrads expected to have access to a personal computer, and if so, what minimum specs) and quantify demand for departmental computing resources.
 
 ## Teaching communication and collaboration
-Both Vision and Change and Hampton et al. 2017, highlight communication skills as a key aspect of data science training. YW has mentioned an interest in this area. To my understanding, the references are not so much referring to social media or giving talks, but how to communicate to participate in interdisciplinary collaborations.
+Both Vision and Change and Hampton et al. 2017, highlight communication skills as a key aspect of data science training. YW has mentioned an interest in this area. To my understanding, the references are not so much referring to social media or giving talks, but how to communicate to participate in interdisciplinary collaborations. (YW: My communications module in BIOL 4651 (6-9 hours of the semester) focuses on general principles of good communication and practical examples of to effectively communicate science to different audiences (e.g., government/decision makers, fellow scientists, K-12 students, general public) and with different formats (written, oral, visual). This could be modified to focus explicitly on communicating quantiative material to diverse audiences). 
 
 ## Streams
 We need to work on tightening up our streams as recommended in the AUP, including the Quantitative/field stream.
