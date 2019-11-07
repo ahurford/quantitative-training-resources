@@ -3,7 +3,7 @@ These materials are hosted on Github to promote openness and collaboration to ca
 
 ## Facts about Github
 1. Github hosts repositories: collections of documents organized in folders.
-2. What am I looking at? You're looking at a files organized into folders. Navigate throught the folders to the document you want to read. Some files my have confusing extensions like .md or .gitignore. The .md files are text files: you can open them in a text editor, but they are easy to read and edit on the github website. The .gitignore file can be ignored.
+2. What am I looking at? You're looking at a files organized into folders (left column; the middle column can be ignored; the right column is the date files were last updated). Navigate throught the folders to the document you want to read. Some files my have confusing extensions like .md or .gitignore. The .md files are text files: you can open them in a text editor, but they are easy to read and edit on the github website. The .gitignore file can be ignored.
 3. Github is like having your Dropbox files open to the public, while allowing the public to edit your Dropbox files. This is the power of Github in facilitating collaboration.
 4. What if someone deletes all the files or messes them up? There are two reasons this can't happen:
   - contributors can only recommend changes to the repository, for the changes to be adopted they need to be approved by the owner or a collaborator; and
