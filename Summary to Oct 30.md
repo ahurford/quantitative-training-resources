@@ -20,7 +20,7 @@ Similarly, professional biologists have moved beyond making graphs using pencil 
 ### Statistics
 Having not yet required STAT 2550, BIOL 1001/1002 is not the place to start in on statistics, but it is the place to better prepare students for (1) the importance of statistics in biology; and (2) key concepts in statistics.
 
-(1) will be address by revisions to the lab manual.
+(1) will be addressed by revisions to the lab manual.
 
 Regarding (2), (and these recommendations are made primarily from my conversations with DS):
 
