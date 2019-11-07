@@ -18,7 +18,7 @@ These materials are hosted on Github to promote openness and collaboration to ca
 3. If you just have comments, then submit these as an `issue`.
 4. If you want to make edits, then you have two options:
   * a. Edit directly on the github website
-  * b. Download the file and edit it locally using your own software.
+  * b. Download the file and edit it locally using your own software, then submit the update back to github.
 5. You can also add a file to the repository.
   
 ### 3a. Editing directly on the github website
