@@ -78,29 +78,47 @@ This course from UBC seems very good: https://stat545.com/index.html, but it is 
 To introduce a new second year course that is required we will need to elimate at least one required second year course. However, we need to reduce our required courseload further than this, and, ideally, to the extent that double majors with geogaraphy, math, stats, and computer science could be possible. This was a topic of discussion at BUGS. The current required courses are:
 
 BIOC 2201 Intro to Biochemistry
+
 BIOC 3206 Metabolism
+
 CHEM 1050 General Chemistry 1
+
 CHEM 1051 General Chemistry 2
+
 CHEM 2400 Organic Chemistry 1
+
 CHEM 2401 Organic Chemistry 2
+
 Six (6) credit hours in Critical Reading and Writing (CRW) courses, including at least 3 credit hours in English courses.
+
 MATH 1000 Calculus 1
+
 PHYS 1020 Intro physics 1
+
 PHYS 1021 (or 1050 and 1051) Intro physics 2
+
 STAT 2550 Statistics for Science Students
 
 BIOL 1001 Principles of Biology I
+
 BIOL 1002 Principles of Biology II
+
 BIOL 2060 Prinicples of Cell Biology
+
 BIOL 2250 Principles of Genetics
+
 BIOL 2600 Prinicples of Ecology
+
 BIOL 2900 Principles of Evolution and Systematics
+
 one of BIOL 3401 Comparative Animal Physiology, 3402 Plant physiology, 4245 Biophysics and 4404 Microbial physiology.
 
 If the faculty divide into two groups I'd expect that the courses each group would fight for are:
 
 Cell and Molecular: BIOL 2060, physiology, 6 chemistrys (8 total courses)
+
 Ecology and Evolution: BIOL 2600, 2900, MATH 1001, STAT 2550 (4 total courses)
+
 The remaining reqirements are probably supported by all.
 
 Leading suggestions are eliminating the requirement of Organic Chem 2 and making the course requirments stream specific.
