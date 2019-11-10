@@ -75,7 +75,7 @@ It is also important to touch on 1) the statement from that ASA about alpha = 0.
 This course from UBC seems very good: https://stat545.com/index.html, but it is a data science course not stats.
 
 ## The curriculuum
-To introduce a new second year course that is required we will need to elimate at least one required second year course. However, we need to reduce our required courseload further than this, and, ideally, to the extent that double majors with geogaraphy, math, stats, and computer science could be possible. This was a topic of discussion at BUGS. The current required courses are:
+To introduce a new second year course that is required we will need to elimate at least one required second year course. However, we need to reduce our required courseload further than this, and, ideally, to the extent that double majors with geogaraphy, math, stats, and computer science could be possible. This was a topic of discussion at BUGS. The current required courses are (see https://www.mun.ca/regoff/calendar/sectionNo=SCI-0736):
 
 BIOC 2201 Intro to Biochemistry
 
