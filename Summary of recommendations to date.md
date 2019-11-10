@@ -1,4 +1,4 @@
-These are _prelimary_ ideas, consulation is ongoing and I welcome feedback. My current thoughts are shaped by Hampton et al. 2017, which I highly recommend (https://academic.oup.com/bioscience/article/67/6/546/3784601).
+These are _prelimary_ ideas, consulation is ongoing and I welcome feedback. My current thoughts are shaped by Hampton et al. 2017, which I highly recommend (https://academic.oup.com/bioscience/article/67/6/546/3784601). The last edits on this document reflect discussions with BUGS on Nov 7, 2019.
 
 The revision of the biology curiculuum with respect to quantitative training should have three objectives:
 1. Give biology majors training in the quantitative skills that are necessary for successful completion of 3000 and 4000 courses in their choosen stream (these skills should include those listed in Table 2 of Hampton et al. 2017);
@@ -33,7 +33,7 @@ Regarding (2), (and these recommendations are made primarily from my conversatio
 
 2. We need to expect that some indication of spread is reported, i.e. error bars on bar plots where the error bars represent the range (i.e. from the min to the max observation) and the figure caption is required to specify what the error bars show.
 
-### Add/Remove labs
+### Add/Remove/Revise 1001/1002 labs
 At least one lab needs to be added to prepare students for our new expectations on data archiving and graphs. We may need to remove 1 existing lab to do this. We may need to lighten the content for some labs that we will now be requiring electronic data entry and graphs.
 
 ### Publically available as an ebook
@@ -51,7 +51,7 @@ Some recommendations for learning outcomes are:
 
 1. Increase awareness about the importance of sampling design and the implications of different sampling approaches (random, haphazarad, stratified random) on analyses and inference. This could be done in lectures through illustrating concepts with figure and images from real-world reserarch papers (if your own, even better) and through simple lab exericses that have students sample from a population and analyse the data. 
 
-1. Increase awareness about the imporance of experimental design and how decisions about experimental design affect which statistical tests are appropriate. Some of this may overlap concepts taughts in STAT 2550, but illustrting these with Biology examples will increase undertanding. Key concepts related to experimental design that students should be comfortable with at the end of the 2000-level courses include: treatment/control, sampling replicates vs. experimental replicate (some areas of biology term these technical replicate vs. biological replication), pseudoreplication, block design, randomized block design.  
+1. Increase awareness about the imporance of experimental design and how decisions about experimental design affect which statistical tests are appropriate. Some of this may overlap concepts taughts in STAT 2550 (edit: I'm not sure this is covered here), but illustrting these with Biology examples will increase undertanding. Key concepts related to experimental design that students should be comfortable with at the end of the 2000-level courses include: treatment/control, sampling replicates vs. experimental replicate (some areas of biology term these technical replicate vs. biological replication), pseudoreplication, block design, randomized block design.
 
 1. All graphs should be accompanied by their formulas and in non-conventional notation, if appropriate, to encourage better familiarity with the shapes of functions and non-conventional notational. 
 
@@ -59,23 +59,51 @@ Some recommendations for learning outcomes are:
 
 1. We need to be consistently reporting the spread of data and discussing overlap with respect to Type II error.
 
-1. ggplot and RStudio. Personally, I don't use ggplot, but https://stat545.com/index.html makes a compelling argument for it.
+1. ggplot and RStudio. Personally, I don't use ggplot, but https://stat545.com/index.html makes a compelling argument for it and all the software/data carpentries and other prepackaged materials are in ggplot and dplyr.
 
 ## Recommendations for each year
 With the BIOL 1001/1002 lab manuals now available as ebooks (and publically available), instructors in upper level courses should be knowledgeable of what is taught in first year and be knowledgable as to if what they are recommending conflicts. We should set specific goals for expectations at the end of second, third and fourth years. Competency E1 on p22 of Scientific Foundations for Future Physicians (https://store.aamc.org/scientific-foundations-for-future-physicians-pdf.html) has some good comments.
 
 ## STAT 2550
 
-Hampton et al. (https://academic.oup.com/bioscience/article/67/6/546/3784601) states that "we recommend a computational approach to statistics training". Therefore, we need to consult with the Statistics department to determine if STAT 2550 is meeting our needs and to facilitate better integration STAT 2550 and our program.
+Hampton et al. (https://academic.oup.com/bioscience/article/67/6/546/3784601) states that "we recommend a computational approach to statistics training". Therefore, we need to consult with the Statistics department to determine if STAT 2550 is meeting our needs and to facilitate better integration STAT 2550 and our program. At BUGS, there was support for replacing STAT 2550 with an in-house version, but this would present staffing challenges. It was noted that psychology does not require STAT 2550 and instead teaches their own course. Might we consider requiring that pyschology course instead of STAT 2550?
 
 It is also important to touch on 1) the statement from that ASA about alpha = 0.05; and 2) data visualization as discussed here (https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128).
 
 
 ## BIOL 4605 and graduate courses
-This course from UBC seems very good: https://stat545.com/index.html
+This course from UBC seems very good: https://stat545.com/index.html, but it is a data science course not stats.
 
 ## The curriculuum
-To introduce a new second year course that is required we will need to elimate at least one required second year course. However, we need to reduce our required courseload further than this, and, ideally, to the extent that double majors with geogaraphy, math, stats, and computer science could be possible.
+To introduce a new second year course that is required we will need to elimate at least one required second year course. However, we need to reduce our required courseload further than this, and, ideally, to the extent that double majors with geogaraphy, math, stats, and computer science could be possible. This was a topic of discussion at BUGS. The current required courses are:
+
+BIOC 2201 Intro to Biochemistry
+BIOC 3206 Metabolism
+CHEM 1050 General Chemistry 1
+CHEM 1051 General Chemistry 2
+CHEM 2400 Organic Chemistry 1
+CHEM 2401 Organic Chemistry 2
+Six (6) credit hours in Critical Reading and Writing (CRW) courses, including at least 3 credit hours in English courses.
+MATH 1000 Calculus 1
+PHYS 1020 Intro physics 1
+PHYS 1021 (or 1050 and 1051) Intro physics 2
+STAT 2550 Statistics for Science Students
+
+BIOL 1001 Principles of Biology I
+BIOL 1002 Principles of Biology II
+BIOL 2060 Prinicples of Cell Biology
+BIOL 2250 Principles of Genetics
+BIOL 2600 Prinicples of Ecology
+BIOL 2900 Principles of Evolution and Systematics
+one of BIOL 3401 Comparative Animal Physiology, 3402 Plant physiology, 4245 Biophysics and 4404 Microbial physiology.
+
+If the faculty divide into two groups I'd expect that the courses each group would fight for are:
+
+Cell and Molecular: BIOL 2060, physiology, 6 chemistrys (8 total courses)
+Ecology and Evolution: BIOL 2600, 2900, MATH 1001, STAT 2550 (4 total courses)
+The remaining reqirements are probably supported by all.
+
+Leading suggestions are eliminating the requirement of Organic Chem 2 and making the course requirments stream specific.
 
 ## Making resources publically available
 A key aspect of making progress is continuity across courses within the major including STAT 2550 (Vision and Change can be cited regarding the importance of this point). What we are teaching about 'how to make a graph in R' in first or second year needs to flow up to third and fourth year. To this extent, we need to maintain public (github) and private (brightspace) repositories of our teaching materials.
