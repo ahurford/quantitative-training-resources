@@ -1,8 +1,8 @@
-These are my _prelimary_ ideas as of Oct 30, 2019, but I have not consulted widely enough to be confidence in these recommendations at this point. As such, I welcome feedback. My current thoughts are shaped by Hampton et al. 2017, which I highly recommend (https://academic.oup.com/bioscience/article/67/6/546/3784601).
+These are _prelimary_ ideas, consulation is ongoing and I welcome feedback. My current thoughts are shaped by Hampton et al. 2017, which I highly recommend (https://academic.oup.com/bioscience/article/67/6/546/3784601).
 
 The revision of the biology curiculuum with respect to quantitative training should have three objectives:
 1. Give biology majors training in the quantitative skills that are necessary for successful completion of 3000 and 4000 courses in their choosen stream (these skills should include those listed in Table 2 of Hampton et al. 2017);
-2. Foster quantitative literacy. In additon to basic numeracy, quantitative literacy implies that students will graduate wth the skills to critically assess and evaluate formal presentations of data and quantiative analyses (e.g., in a report, journal article). Not all students will graduate to be coders or statistical wizards, but all of our students should be comforatable reading and analysing papers with quantitaitve methods appropriate to their steam/specialization (for example, statistical analyses, mathematical models, large data sets, graphs, computer code). 
+2. Foster quantitative literacy. In additon to basic numeracy, quantitative literacy implies that students will graduate wth the skills to critically assess and evaluate formal presentations of data and quantiative analyses (e.g., in a report, journal article). Not all students will graduate to be coders or statistical wizards, but all of our students should be comforatable reading and evaluating papers with quantitaitve methods appropriate to their steam/specialization (for example, statistical analyses, mathematical models, large data sets, graphs, computer code). 
 3. Develop students' confidence in handling and interpreting data. At minimmum, upon completing our BSc program (or potentially only specific streams of our program), if a student were given data and some context, the student can apply their biological knowledge to form a hypothesis, and make some progress on assessing whether the data support their hypothesis using statistics and/or data visualization.
 
 ## BIOL 1001/1002
@@ -10,17 +10,17 @@ Biology 1001 and 1002 lectures seems tightly focused around Campbell Biology, an
 
 ## BIOL 1001/1002 Labs
 ### Revise lab manual text to give an updated description of what biologists do
-The lab manual needs to be edited to communicate current practices for researchers. Particularly, in Appendix II, beginning on p118, comments around 'The Scientific Method', 'How Researchers communicate their findings', and 'Graphs and Tables' need to be revised. In addition, the roles of statistics in biology and modelling as an approach to doing science needs to be communicated.
+The lab manual needs to be edited to communicate current practices for researchers. Particularly, in Appendix II, beginning on p118, comments around 'The Scientific Method', 'How Researchers communicate their findings', and 'Graphs and Tables' need to be revised. In addition, the roles of statistics in biology and modelling as an approach to doing science needs to be communicated. The role of traditional ecological knowledge and non-western approaches should be mentioned.
 
 ### Terminology/Definitions/Key Concepts
 
-Upon completion of first year Biology, students should be familiar with the following terms/concepts: independent/dependent variable, x/y axis, positive/negative trend, linear/non-linear relationship, mean, standard deviation, normal distributions, sample vs. population, random sampling
+Upon completion of first year Biology, students should be familiar with the following terms/concepts: independent/dependent variable, x/y axis, positive/negative/no trend, linear/non-linear relationship, mean, median, range. Further discussion is needed to assess whether standard deviation, normal distributions, sample vs. population, random sampling should be included.
 
 ### Tables
-Data archiving standards for professional biologists have now moved beyond writing results in a notebook, and we need to give the students exposure to these expectations. We should ask first year students to archive data in an electronic format and submit to a github repository. This requirement needs to be supported by readings/text that explain that this is the current standard for professional biologists. We might also discuss what is metadata and Ecological Metadata Language (https://joss.theoj.org/papers/10.21105/joss.01276). We need to provide training/documentation for lab instructors and TAs on github. 
+Data archiving standards for professional biologists have now moved beyond writing results in a notebook, and we need to give the students exposure to these expectations. These expectations should be a streamlined version of Week 1 https://datacarpentry.org/semester-biology/schedule/. Specifically, Q.2 of the assignment for week 1 https://datacarpentry.org/semester-biology/assignments/sql-data/ reflects similar expectations as to what we should have for first year biology. We will ask first year students to archive data in an electronic format and submit to a github repository. We might also discuss what is metadata and Ecological Metadata Language (https://joss.theoj.org/papers/10.21105/joss.01276). We need to provide training/documentation for lab instructors and TAs on github.
 
 ### Graphs
-Similarly, professional biologists have moved beyond making graphs using pencil and paper! Perhaps this isn't the place to introduce R, and we could accept graphs made in a variety of softwares, while also have developed resources for R, RStudio, and ggplot. Expectations around figure captions should be revised.
+Similarly, professional biologists have moved beyond making graphs using pencil and paper! Perhaps this isn't the place to require R, and we could accept graphs made in a variety of softwares, while also have developed resources for R, RStudio, and ggplot. Again, this should be a streamlined version of Week 5 from https://datacarpentry.org/semester-biology/schedule/. Expectations around figure captions should be revised. 
 
 ### Statistics
 Having not yet required STAT 2550, BIOL 1001/1002 is not the place to start in on statistics, but it is the place to better prepare students for (1) the importance of statistics in biology; and (2) key concepts in statistics (see terminology/definition list above).
@@ -34,13 +34,13 @@ Regarding (2), (and these recommendations are made primarily from my conversatio
 2. We need to expect that some indication of spread is reported, i.e. error bars on bar plots where the error bars represent the range (i.e. from the min to the max observation) and the figure caption is required to specify what the error bars show.
 
 ### Add/Remove labs
-We should add labs to introduce students to data science by removing some of the labs that are focused more specifically around knowledge reinforcement from lecture. At least one lab needs to be added to prepare students for our new expectations on data archiving and graphs.
+At least one lab needs to be added to prepare students for our new expectations on data archiving and graphs. We may need to remove 1 existing lab to do this. We may need to lighten the content for some labs that we will now be requiring electronic data entry and graphs.
 
 ### Publically available as an ebook
 The BIOL 1001 and 1002 lab manuals will be available as ebooks as well as hardcopies. The transfer to an ebook will be completed in the winter and summer of 2020 using the bookdown package for R and will be completed by the TA hired to work with AH on our quantitative program.
 
 ## A 2000-level "Datacarpentary in Biology"
-I recommend introducing a required second your course that is "Datacarpentary in Biology" or "Introduction to data science for biologists". The course could draw on materials from here: https://datacarpentry.org/semester-biology/schedule/
+I recommend introducing a required second your course that is "Datacarpentary in Biology" or "Introduction to data science for biologists". The course could draw on the Week 1 to 5 materials from here: https://datacarpentry.org/semester-biology/schedule/. The linked course is a graduate-level course and so the idea is to spread the content across 13 weeks to resuls in a course appropriate for the 2000-level. This course could be offered as lab-only. 
 
 ## Recommendations for BIOL 2000-level courses and beyond
 We will maintain resources and guidelines to help with quantitative content in 2000- and above courses. Resources could include ready-made activities and exercises for use in lecture and/or lab, as well as training/workshops for faculty and lab instructors/TAs. 
