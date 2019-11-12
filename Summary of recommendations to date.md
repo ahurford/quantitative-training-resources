@@ -40,7 +40,17 @@ At least one lab needs to be added to prepare students for our new expectations 
 The BIOL 1001 and 1002 lab manuals will be available as ebooks as well as hardcopies. The transfer to an ebook will be completed in the winter and summer of 2020 using the bookdown package for R and will be completed by the TA hired to work with AH on our quantitative program.
 
 ## A 2000-level "Datacarpentary in Biology"
-I recommend introducing a required second your course that is "Datacarpentary in Biology" or "Introduction to data science for biologists". The course could draw on the Week 1 to 5 materials from here: https://datacarpentry.org/semester-biology/schedule/. The linked course is a graduate-level course and so the idea is to spread the content across 13 weeks to resuls in a course appropriate for the 2000-level. This course could be offered as lab-only. 
+I recommend introducing a required second your course that is "Datacarpentary in Biology" or "Introduction to data science for biologists". The course could draw on materials from here: https://datacarpentry.org/semester-biology/schedule/. The linked course is a graduate-level course and so the idea is to spread the content across 13 weeks to resuls in a course appropriate for the 2000-level. This course could be offered as lab-only. 
+Topics:
+1. Data entry and storage (SQL/Excel)
+2. Intro to R (Basic expressions, Basic variables, More variables, Built-in functions)
+3. Intro to R (Modify the code, import data)
+4. Analyzing Data (dpylr, import and analyze)
+5. Data vizulalization (ggplot)
+6. Working with spatial data (R)
+7. Data vizualization 2 (R)
+8. Combining everything (R)
+
 
 ## Recommendations for BIOL 2000-level courses and beyond
 We will maintain resources and guidelines to help with quantitative content in 2000- and above courses. Resources could include ready-made activities and exercises for use in lecture and/or lab, as well as training/workshops for faculty and lab instructors/TAs. 
