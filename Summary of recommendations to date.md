@@ -125,7 +125,7 @@ one of BIOL 3401 Comparative Animal Physiology, 3402 Plant physiology, 4245 Biop
 
 If the faculty divide into two groups, I'd expect that the courses each group would fight for are:
 
-Cell and Molecular: BIOL 2060, physiology, 6 chemistrys (8 total courses + 6 labs = 42 hr/wk)
+Cell and Molecular: BIOL 2060, physiology, 2 organic chemistries, 2 biochemistries (6 total courses + 4 labs = 30 hr/wk)
 
 Ecology and Evolution: BIOL 2600, 2900, MATH 1001, STAT 2550 (4 total courses + 2.5 labs = 19.5 hr/wk)
 
