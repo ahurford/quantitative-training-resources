@@ -23,7 +23,11 @@ These materials are hosted on Github to promote openness and collaboration to ca
   
 ### 3a. Editing directly on the github website
 1. Some files, notably .csv, .md, and .txt formats, can be edited directly on github.
-2. Fork the repository by clicking . This means you are starting your own `branch`. You have been required to do this because you don't have permission to edit the `master` (main) version of this repository. This ensures that the owner and collaborators stay in control of the `master` repository's contents. See https://help.github.com/en/github/getting-started-with-github/fork-a-repo for advanced instructions.
+2. Fork the repository by clicking 
+
+[[https://github.com/ahurford/quantitative-training-resources/blob/master/img/Fork.png|alt=Fork]]
+
+This means you are starting your own `branch`. You have been required to do this because you don't have permission to edit the `master` (main) version of this repository. This ensures that the owner and collaborators stay in control of the `master` repository's contents. See https://help.github.com/en/github/getting-started-with-github/fork-a-repo for advanced instructions.
 2. Navigate to the file you want to edit and click on the `pencil` icon on the righthand side of the page.
 3. You should be prompted to fork the repository. 
 4. You will now see raw text that you can edit as you please. You can save your work by submitting a `commit` (big green button at the bottom of the page. You may need to scroll down). If you make a `commit`, you haven't changed the `master` version of the repository, just your personal copy: your `branch`.
