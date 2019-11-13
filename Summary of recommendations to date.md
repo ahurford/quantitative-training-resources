@@ -40,7 +40,17 @@ At least one lab needs to be added to prepare students for our new expectations 
 The BIOL 1001 and 1002 lab manuals will be available as ebooks as well as hardcopies. The transfer to an ebook will be completed in the winter and summer of 2020 using the bookdown package for R and will be completed by the TA hired to work with AH on our quantitative program.
 
 ## A 2000-level "Datacarpentary in Biology"
-I recommend introducing a required second your course that is "Datacarpentary in Biology" or "Introduction to data science for biologists". The course could draw on the Week 1 to 5 materials from here: https://datacarpentry.org/semester-biology/schedule/. The linked course is a graduate-level course and so the idea is to spread the content across 13 weeks to resuls in a course appropriate for the 2000-level. This course could be offered as lab-only. 
+I recommend introducing a required second your course that is "Datacarpentary in Biology" or "Introduction to data science for biologists". The course could draw on materials from here: https://datacarpentry.org/semester-biology/schedule/. The linked course is a graduate-level course and so the idea is to spread the content across 13 weeks to resuls in a course appropriate for the 2000-level. This course could be offered as lab-only. 
+Topics:
+1. Data entry and storage (SQL/Excel)
+2. Intro to R (Basic expressions, Basic variables, More variables, Built-in functions)
+3. Intro to R (Modify the code, import data)
+4. Analyzing Data (dpylr, import and analyze)
+5. Data vizulalization (ggplot)
+6. Working with spatial data (R)
+7. Data vizualization 2 (R)
+8. Combining everything (R)
+
 
 ## Recommendations for BIOL 2000-level courses and beyond
 We will maintain resources and guidelines to help with quantitative content in 2000- and above courses. Resources could include ready-made activities and exercises for use in lecture and/or lab, as well as training/workshops for faculty and lab instructors/TAs. 
@@ -81,43 +91,43 @@ BIOC 2201 Intro to Biochemistry
 
 BIOC 3206 Metabolism
 
-CHEM 1050 General Chemistry 1
+CHEM 1050 General Chemistry 1 (3h lab/wk)
 
-CHEM 1051 General Chemistry 2
+CHEM 1051 General Chemistry 2 (3h lab/wk)
 
-CHEM 2400 Organic Chemistry 1
+CHEM 2400 Organic Chemistry 1 (3h lab/wk)
 
-CHEM 2401 Organic Chemistry 2
+CHEM 2401 Organic Chemistry 2 (3h lab/week)
 
 Six (6) credit hours in Critical Reading and Writing (CRW) courses, including at least 3 credit hours in English courses.
 
 MATH 1000 Calculus 1
 
-PHYS 1020 Intro physics 1
+PHYS 1020 Intro physics 1 (6 x 3hr lab/semester)
 
-PHYS 1021 (or 1050 and 1051) Intro physics 2
+PHYS 1021 (or 1050 and 1051) Intro physics 2 (6 x 3hr lab/semester)
 
-STAT 2550 Statistics for Science Students
+STAT 2550 Statistics for Science Students (90 min lab/wk)
 
-BIOL 1001 Principles of Biology I
+BIOL 1001 Principles of Biology I (3h lab/week)
 
-BIOL 1002 Principles of Biology II
+BIOL 1002 Principles of Biology II (3h lab/week)
 
-BIOL 2060 Prinicples of Cell Biology
+BIOL 2060 Prinicples of Cell Biology (3h lab/week)
 
-BIOL 2250 Principles of Genetics
+BIOL 2250 Principles of Genetics (3h lab/week)
 
-BIOL 2600 Prinicples of Ecology
+BIOL 2600 Prinicples of Ecology (3h lab/week)
 
-BIOL 2900 Principles of Evolution and Systematics
+BIOL 2900 Principles of Evolution and Systematics (3h lab/week)
 
-one of BIOL 3401 Comparative Animal Physiology, 3402 Plant physiology, 4245 Biophysics and 4404 Microbial physiology.
+one of BIOL 3401 Comparative Animal Physiology, 3402 Plant physiology, 4245 Biophysics and 4404 Microbial physiology. (3h lab/week)
 
-If the faculty divide into two groups I'd expect that the courses each group would fight for are:
+If the faculty divide into two groups, I'd expect that the courses each group would fight for are:
 
-Cell and Molecular: BIOL 2060, physiology, 6 chemistrys (8 total courses)
+Cell and Molecular: BIOL 2060, physiology, 2 organic chemistries, 2 biochemistries (6 total courses + 4 labs = 30 hr/wk)
 
-Ecology and Evolution: BIOL 2600, 2900, MATH 1001, STAT 2550 (4 total courses)
+Ecology and Evolution: BIOL 2600, 2900, MATH 1001, STAT 2550 (4 total courses + 2.5 labs = 19.5 hr/wk)
 
 The remaining reqirements are probably supported by all.
 
