@@ -3,7 +3,7 @@ These materials are hosted on Github to promote openness and collaboration to ca
 
 ## Facts about Github
 1. Github hosts repositories: collections of documents organized in folders.
-2. What am I looking at? You're looking at a files organized into folders (left column; the middle column can be ignored; the right column is the date files were last updated). Navigate throught the folders to the document you want to read. Some files my have confusing extensions like .md or .gitignore. The .md files are text files: you can open them in a text editor, but they are easy to read and edit on the github website. The .gitignore file can be ignored.
+2. What am I looking at? You're looking at a files organized into folders (left column; the middle column can be ignored; the right column is the date files were last updated). Navigate throught the folders to the document you want to read. Some files my have confusing extensions like .md or .gitignore. The .md files are text files: you can open them in a text editor, but they are easy to read and edit on the github website. The .gitignore file can be ignored. Sometimes a folder will contain many files that are used to compile a .pdf. For such folders, begin by just reading the .pdf.
 3. Github is like having your Dropbox files open to the public, while allowing the public to edit your Dropbox files. This is the power of Github in facilitating collaboration.
 4. What if someone deletes all the files or messes them up? There are two reasons this can't happen:
   - contributors can only recommend changes to the repository, for the changes to be adopted they need to be approved by the owner or a collaborator; and
@@ -23,8 +23,9 @@ These materials are hosted on Github to promote openness and collaboration to ca
   
 ### 3a. Editing directly on the github website
 1. Some files, notably .csv, .md, and .txt formats, can be edited directly on github.
+2. Fork the repository by clicking . This means you are starting your own `branch`. You have been required to do this because you don't have permission to edit the `master` (main) version of this repository. This ensures that the owner and collaborators stay in control of the `master` repository's contents. See https://help.github.com/en/github/getting-started-with-github/fork-a-repo for advanced instructions.
 2. Navigate to the file you want to edit and click on the `pencil` icon on the righthand side of the page.
-3. You should be prompted to fork the repository. This means you are starting your own `branch`. You have been required to do this because you don't have permission to edit the `master` (main) version of this repository. This ensures that the owner and collaborators stay in control of the `master` repository's contents.
+3. You should be prompted to fork the repository. 
 4. You will now see raw text that you can edit as you please. You can save your work by submitting a `commit` (big green button at the bottom of the page. You may need to scroll down). If you make a `commit`, you haven't changed the `master` version of the repository, just your personal copy: your `branch`.
 5. When are ready for your changes to be reviewed by a collaborator (or the owner), then you need to submit a `pull` request. This should be another big green button at the bottom of the page (you may need to scroll down). If you don't have the option to submit a `pull` request, the problem may be that you haven't committed your most recent changes. Alternatively, you may need to provide a title and description for you `pull` request.
 6. If a long time passes between when you `fork` the repository and when you submit the `pull` request, there may be conflicts and this may make it more difficult to merge your changes into the `master` branch.
