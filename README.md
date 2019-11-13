@@ -25,7 +25,7 @@ These materials are hosted on Github to promote openness and collaboration to ca
 1. Some files, notably .csv, .md, and .txt formats, can be edited directly on github.
 2. Fork the repository by clicking 
 
-[[https://github.com/ahurford/quantitative-training-resources/blob/master/img/Fork.png|alt=Fork]]
+![](Fork.png)
 
 This means you are starting your own `branch`. You have been required to do this because you don't have permission to edit the `master` (main) version of this repository. This ensures that the owner and collaborators stay in control of the `master` repository's contents. See https://help.github.com/en/github/getting-started-with-github/fork-a-repo for advanced instructions.
 2. Navigate to the file you want to edit and click on the `pencil` icon on the righthand side of the page.
