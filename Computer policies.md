@@ -1,4 +1,4 @@
-# Computer use policies for Biology
+# Computer use policies for biology
 - Instructors may ask students to use their personal laptops in class, but cannot require computer exercises unless all students that wish to use a university-sourced computer have one made available to them.
 - Instructors cannot recommend that two students share a computer that is the property of one student. 
 - Drinks are not permitted around computers, and if a computer is damaged during a class, the instructor is not liable. 
