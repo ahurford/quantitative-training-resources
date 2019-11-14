@@ -52,4 +52,4 @@ Alternatively, if the file is .md or .txt you might click the `pencil` icon, the
 3. Make the `commit` (See 4. in Section 3a).
 4. Submit a `pull` request.
 
-If you are having trouble, see the how to contribute section.
+If you are having trouble, see the _How to contribute_ section.
