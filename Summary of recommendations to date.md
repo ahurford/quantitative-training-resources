@@ -1,4 +1,4 @@
-These are _prelimary_ ideas, consulation is ongoing and I welcome feedback. My current thoughts are shaped by Hampton et al. 2017, which I highly recommend (https://academic.oup.com/bioscience/article/67/6/546/3784601). The last edits on this document reflect discussions with BUGS on Nov 7, 2019.
+These are _preliminary_ ideas, consulation is ongoing and I welcome feedback. My current thoughts are shaped by Hampton et al. 2017, which I highly recommend (https://academic.oup.com/bioscience/article/67/6/546/3784601). The last edits on this document reflect discussions with BUGS on Nov 7, 2019.
 
 The revision of the biology curiculuum with respect to quantitative training should have three objectives:
 1. Give biology majors training in the quantitative skills that are necessary for successful completion of 3000 and 4000 courses in their choosen stream (these skills should include those listed in Table 2 of Hampton et al. 2017);
