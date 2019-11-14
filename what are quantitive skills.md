@@ -1,3 +1,4 @@
+I got stumped on figuring out what quantiative skills were, so I jotted down some brainstorming on the topic:
 1. Reading graphs. This could include reading a phylogeny.
 1. knowing the equation for a straight line in non-conventional notation
 1. Being able to sketch graphs
