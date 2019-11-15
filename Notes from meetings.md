@@ -6,4 +6,8 @@
 1. PT: 1001/1002 is already 'full' good content cut.
 1. SG: There are good excercises in the 1001/1002 textbook.
 1. JR: Skills in Botany/Evolution - reading phylogenies, being able to identify equivalent phylogenies.
+1. DQ: 'Relative tables' terminology around data scinece
+1. DQ: 2-day carpentary workshops could be offered/support curiculuum.
+1. DQ: Has resources around date entry/archiving.
+
 
