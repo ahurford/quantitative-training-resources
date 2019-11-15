@@ -1,3 +1,8 @@
+Goals:
+- Identify where in the circulum modules to achieve quantitative goals can be incorporated (i.e. which courses/instructors would support the initiative).
+- Summarize what is currently being done to build better connections across courses.
+- What do the faculty view as the areas that need improvement.
+
 # Questions for survey to be distributed to instructors regarding quantitative training
 
 1. Name:
