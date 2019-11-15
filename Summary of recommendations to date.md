@@ -5,27 +5,25 @@ The revision of the biology curiculuum with respect to quantitative training sho
 2. Foster quantitative literacy. In additon to basic numeracy, quantitative literacy implies that students will graduate wth the skills to critically assess and evaluate formal presentations of data and quantiative analyses (e.g., in a report, journal article). Not all students will graduate to be coders or statistical wizards, but all of our students should be comforatable reading and evaluating papers with quantitaitve methods appropriate to their steam/specialization (for example, statistical analyses, mathematical models, large data sets, graphs, computer code). 
 3. Develop students' confidence in handling and interpreting data. At minimmum, upon completing our BSc program (or potentially only specific streams of our program), if a student were given data and some context, the student can apply their biological knowledge to form a hypothesis, and make some progress on assessing whether the data support their hypothesis using statistics and/or data visualization.
 
-See document: "Draft quantiative learning goals" for detailed learning goals and objectives at each level:
+See document: "Draft quantiative learning goals" for detailed learning goals and objectives at each level: https://github.com/ahurford/quantitative-training-resources/blob/master/Draft%20Quantitative%20Learning%20Goals.pdf
 
 ## BIOL 1001/1002
 Biology 1001 and 1002 lectures seems tightly focused around Campbell Biology, and as such, there is limited opportunity to deviate from the textbook.
 
 ## BIOL 1001/1002 Labs
 ### Revise lab manual text to give an updated description of what biologists do
-The lab manual needs to be edited to communicate current practices for researchers. Particularly, in Appendix II, beginning on p118, comments around 'The Scientific Method', 'How Researchers communicate their findings', and 'Graphs and Tables' need to be revised. In addition, the roles of statistics in biology and modelling as an approach to doing science needs to be communicated. The role of traditional ecological knowledge and non-western approaches should be mentioned.
-
-### Terminology/Definitions/Key Concepts
-
-Upon completion of first year Biology, students should be familiar with the following terms/concepts: independent/dependent variable, x/y axis, positive/negative/no trend, linear/non-linear relationship, mean, median, range. Further discussion is needed to assess whether standard deviation, normal distributions, sample vs. population, random sampling should be included.
+The lab manual needs to be edited to communicate current practices for researchers. Particularly, in Appendix II, beginning on p118, comments around 'The Scientific Method', 'How Researchers communicate their findings', and 'Graphs and Tables' need to be revised. In addition, the roles of statistics in biology and modelling as an approach to doing science needs to be communicated. The role of traditional ecological knowledge and non-western approaches should be mentioned. Terminology around statistics and data science should be introduced.
 
 ### Tables
-Data archiving standards for professional biologists have now moved beyond writing results in a notebook, and we need to give the students exposure to these expectations. These expectations should be a streamlined version of Week 1 https://datacarpentry.org/semester-biology/schedule/. Specifically, Q.2 of the assignment for week 1 https://datacarpentry.org/semester-biology/assignments/sql-data/ reflects similar expectations as to what we should have for first year biology. We will ask first year students to archive data in an electronic format and submit to a github repository. We might also discuss what is metadata and Ecological Metadata Language (https://joss.theoj.org/papers/10.21105/joss.01276). We need to provide training/documentation for lab instructors and TAs on github.
+Data archiving standards for professional biologists have now moved beyond writing results in a notebook, and we need to give the students exposure to these expectations. These expectations should be a streamlined version of Week 1 https://datacarpentry.org/semester-biology/schedule/ and Emilie and Danielle may also have relevant materials. Specifically, Q.2 of the assignment for week 1 https://datacarpentry.org/semester-biology/assignments/sql-data/ reflects similar expectations as to what we should have for first year biology. We will ask first year students to archive data in an electronic format and submit to a github repository. We might also discuss what is metadata and Ecological Metadata Language (https://joss.theoj.org/papers/10.21105/joss.01276). We need to provide training/documentation for lab instructors and TAs on github, both for help the students to submit their data, but also on merging the pull requests from the submitted data.
 
 ### Graphs
-Similarly, professional biologists have moved beyond making graphs using pencil and paper! Perhaps this isn't the place to require R, and we could accept graphs made in a variety of softwares, while also have developed resources for R, RStudio, and ggplot. Again, this should be a streamlined version of Week 5 from https://datacarpentry.org/semester-biology/schedule/. Expectations around figure captions should be revised. 
+Similarly, professional biologists have moved beyond making graphs using pencil and paper. Perhaps this isn't the place to require R, and we could accept graphs made in a variety of softwares, while also have developed resources for R, RStudio, and ggplot. Again, this should be a streamlined version of Week 5 from https://datacarpentry.org/semester-biology/schedule/, but may require some time as plotting requires some preliminary comments on built-in functions, loading packages, getting help, common errors, reading in data, etc. Expectations around figure captions should be revised. 
 
 ### Statistics
-Having not yet required STAT 2550, BIOL 1001/1002 is not the place to start in on statistics, but it is the place to better prepare students for (1) the importance of statistics in biology; and (2) key concepts in statistics (see terminology/definition list above).
+_AH: These are some very specific suggestions that we need to integrate into https://github.com/ahurford/quantitative-training-resources/blob/master/Draft%20Quantitative%20Learning%20Goals.pdf and eventually remove from here_
+
+Having not yet required STAT 2550, BIOL 1001/1002 is not the place to start in on statistics, but it is the place to better prepare students for (1) the importance of statistics in biology; and (2) key concepts in statistics.
 
 (1) will be addressed by revisions to the lab manual.
 
@@ -44,7 +42,7 @@ The BIOL 1001 and 1002 lab manuals will be available as ebooks as well as hardco
 ## A 2000-level "Datacarpentary in Biology"
 I recommend introducing a required second your course that is "Datacarpentary in Biology" or "Introduction to data science for biologists". The course could draw on materials from here: https://datacarpentry.org/semester-biology/schedule/. The linked course is a graduate-level course and so the idea is to spread the content across 13 weeks to resuls in a course appropriate for the 2000-level. This course could be offered as lab-only. 
 Topics:
-1. Data entry and storage (SQL/Excel)
+1. Data entry and storage (Excel, OpenOffice, Text editor)
 2. Intro to R (Basic expressions, Basic variables, More variables, Built-in functions)
 3. Intro to R (Modify the code, import data)
 4. Analyzing Data (dpylr, import and analyze)
@@ -57,13 +55,13 @@ Topics:
 ## Recommendations for BIOL 2000-level courses and beyond
 We will maintain resources and guidelines to help with quantitative content in 2000- and above courses. Resources could include ready-made activities and exercises for use in lecture and/or lab, as well as training/workshops for faculty and lab instructors/TAs. 
 
-Some recommendations for learning outcomes are:
+Some recommendations for learning outcomes are (need to revise https://github.com/ahurford/quantitative-training-resources/blob/master/Draft%20Quantitative%20Learning%20Goals.pdf to cover these):
 
 1. Discuss Type I and Type II errors (Type I: alarm, no fire; Type II: fire, no alarm). The statement from American Statistical Association advocating the downfall of alpha = 0.05, if I understand DS correctly, should now be replaced with a discussion of the types of questions where lower or higher acceptable Type II errors are appropriate, for example, a fire with no alarm is a life and death matter; if my oven timer doesn't go off, then dinner will get burnt which is much less serious and as such a higher Type II error is acceptible for the latter. (I need to read and consult further on this point).
 
 1. Increase awareness about the importance of sampling design and the implications of different sampling approaches (random, haphazarad, stratified random) on analyses and inference. This could be done in lectures through illustrating concepts with figure and images from real-world reserarch papers (if your own, even better) and through simple lab exericses that have students sample from a population and analyse the data. 
 
-1. Increase awareness about the imporance of experimental design and how decisions about experimental design affect which statistical tests are appropriate. Some of this may overlap concepts taughts in STAT 2550 (edit: I'm not sure this is covered here), but illustrting these with Biology examples will increase undertanding. Key concepts related to experimental design that students should be comfortable with at the end of the 2000-level courses include: treatment/control, sampling replicates vs. experimental replicate (some areas of biology term these technical replicate vs. biological replication), pseudoreplication, block design, randomized block design.
+1. Increase awareness about the imporance of experimental design and how decisions about experimental design affect which statistical tests are appropriate. Some of this may overlap concepts taughts in STAT 2550 (AH edit: I'm not sure this is covered here), but illustrting these with Biology examples will increase undertanding. Key concepts related to experimental design that students should be comfortable with at the end of the 2000-level courses include: treatment/control, sampling replicates vs. experimental replicate (some areas of biology term these technical replicate vs. biological replication), pseudoreplication, block design, randomized block design.
 
 1. All graphs should be accompanied by their formulas and in non-conventional notation, if appropriate, to encourage better familiarity with the shapes of functions and non-conventional notational. 
 
@@ -82,9 +80,8 @@ Hampton et al. (https://academic.oup.com/bioscience/article/67/6/546/3784601) st
 
 It is also important to touch on 1) the statement from that ASA about alpha = 0.05; and 2) data visualization as discussed here (https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128).
 
-
 ## BIOL 4605 and graduate courses
-This course from UBC seems very good: https://stat545.com/index.html, but it is a data science course not stats.
+This course from UBC seems very good: https://stat545.com/index.html. Amy has also archieved all of Dave Schneiders BIOL 4605 materials from Fall 2019.
 
 ## The curriculuum
 To introduce a new second year course that is required we will need to elimate at least one required second year course. However, we need to reduce our required courseload further than this, and, ideally, to the extent that double majors with geogaraphy, math, stats, and computer science could be possible. This was a topic of discussion at BUGS. The current required courses are (see https://www.mun.ca/regoff/calendar/sectionNo=SCI-0736):
@@ -133,13 +130,13 @@ Ecology and Evolution: BIOL 2600, 2900, MATH 1001, STAT 2550 (4 total courses + 
 
 The remaining reqirements are probably supported by all.
 
-Leading suggestions are eliminating the requirement of Organic Chem 2 and making the course requirments stream specific. (YW Note: At the Sept. 20, 2019 BUGS meeting we discussed dropping Organic Chem 2 as a requirement; we didn't make a final decision on this ). 
+Leading suggestions are eliminating the requirement of Organic Chem 2 and making the course requirments stream specific (As discussed at the Sept. 20 and Nov 7, 2019 BUGS meetings). 
 
 ## Making resources publically available
 A key aspect of making progress is continuity across courses within the major including STAT 2550 (Vision and Change can be cited regarding the importance of this point). What we are teaching about 'how to make a graph in R' in first or second year needs to flow up to third and fourth year. To this extent, we need to maintain public (github) and private (brightspace) repositories of our teaching materials.
 
 ## Computing and software requirements
-We should develop a policy on our expectations (i.e., are undergrads expected to have access to a personal computer, and if so, what minimum specs) and quantify demand for departmental computing resources.
+We should develop a policy on our expectations (i.e., are undergrads expected to have access to a personal computer, and if so, what minimum specs) and quantify demand for departmental computing resources. See 
 
 ## Teaching communication and collaboration
 Both Vision and Change and Hampton et al. 2017, highlight communication skills as a key aspect of data science training. YW has mentioned an interest in this area. To my understanding, the references are not so much referring to social media or giving talks, but how to communicate to participate in interdisciplinary collaborations. (YW: My communications module in BIOL 4651 (6-9 hours of the semester) focuses on general principles of good communication and practical examples of to effectively communicate science to different audiences (e.g., government/decision makers, fellow scientists, K-12 students, general public) and with different formats (written, oral, visual). This could be modified to focus explicitly on communicating quantiative material to diverse audiences). 
