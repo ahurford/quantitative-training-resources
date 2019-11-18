@@ -9,5 +9,27 @@
 1. DQ: 'Relative tables' terminology around data scinece
 1. DQ: 2-day carpentary workshops could be offered/support curiculuum.
 1. DQ: Has resources around date entry/archiving.
+----
+Townhall Nov 18, 2019
+Thanks to everyone that attended! Please add anything that is omitted.
 
+BIOL 1001/1002 lecture
+- SA: In UK, exposed to stats in first year.
 
+Entering data
+- DQ: Excel is fine to use, but make it clear that its strength is data entry and analysis might best be performed elsewhere.
+- LPC: Preferred format is tabular. Need to follow-up on the rationale.
+
+Softwares
+- SL+: Government scientists are using Excel for analysis so we should keep future careers of our students in mind.
+- EG, AR etc: Discussed covering same topics in R and Python to communicate the programming skills are transferrable, but eventually concluded to that this could be an advanced topic outsourced to CS or Bioinformatics.
+- DQ: Science should be reproducibile and Excel analaysis are not reproducible because it isn't a scripting language.
+
+Second year course: Datacarpentary for biologists
+- LPC: Related courses are offered in CS covering Intro to Data Analysis/Intro to programming, or a course could be developed as a service course.
+- YW: Remove that this should be a 'required' course. This will facilitate getting the course 'up and running'. In addition, what courses we require for out major is a topic that requires separate consideration and it's best to separate these issues.
+
+Support
+- YW: CITL is a resource to help with the production of teaching videos.
+
+Overall, there seems to be overwhelming support for the simple steps that we wish to implement in the first year lab.
