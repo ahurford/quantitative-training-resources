@@ -44,3 +44,6 @@ Notation in ecology: https://besjournals.onlinelibrary.wiley.com/doi/full/10.111
 
 # BIOL 4605
 http://www.mun.ca/biology/schneider/b4605/
+
+# Video
+Recommended viewing for first year students: https://www.youtube.com/watch?v=UJQ1F9dirRg&feature=youtu.be
