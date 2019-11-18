@@ -11,6 +11,7 @@
 1. DQ: Has resources around date entry/archiving.
 ----
 Townhall Nov 18, 2019
+
 Thanks to everyone that attended! Please add anything that is omitted.
 
 BIOL 1001/1002 lecture
