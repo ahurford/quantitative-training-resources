@@ -22,7 +22,7 @@ Cookbook for R: http://www.cookbook-r.com/
 # Links to articles
 Skills and knowledge for Data-Intesive Environmental Research: https://academic.oup.com/bioscience/article/67/6/546/3784601
 
-http://q4b.biology.ubc.ca/concept-inventories/statistical-reasoning-in-biology/
+First year expectations experimental design, UBC http://q4b.biology.ubc.ca/concept-inventories/statistical-reasoning-in-biology/
 
 https://www.macalester.edu/hhmi/biosquare/
 
