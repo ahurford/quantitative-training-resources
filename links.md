@@ -5,6 +5,10 @@ Pirates guide to R: https://bookdown.org/ndphillips/YaRrr/
 
 BES Data manifesto: https://www.rss.org.uk/RSS/Influencing_Change/Data_democracy_sub/Data_manifesto.aspx?WebsiteKey=bc86df55-c2ae-4d73-8450-66ecc8988ded&hkey=5dd70207-82e7-4166-93fd-bcf9a2a1e496
 
+R for Data Science: https://r4ds.had.co.nz/
+
+Cookbook for R: http://www.cookbook-r.com/
+
 # Books requested to be purchased at QEII
 - Biocalculus, probability, and statistics for the life sciences by James Stewart and Troy Day
 - Modeling the dynamics of life: calculus and probability for the life scientists by Frederick Adler
@@ -47,3 +51,6 @@ http://www.mun.ca/biology/schneider/b4605/
 
 # Video
 Recommended viewing for first year students: https://www.youtube.com/watch?v=UJQ1F9dirRg&feature=youtu.be
+
+# Carpentries Instructor Training Materials  
+Best practices for effective pedagogy with a focus in scientific programming: https://carpentries.github.io/instructor-training/  
