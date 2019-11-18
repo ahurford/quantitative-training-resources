@@ -20,7 +20,7 @@ Cookbook for R: http://www.cookbook-r.com/
 - deVeaux (accessible, well done, stats text)
 
 # Links to articles
-Skills and knowledge for Data-Intesive Environmental Research: https://academic.oup.com/bioscience/article/67/6/546/3784601
+Skills and knowledge for Data-Intensive Environmental Research: https://academic.oup.com/bioscience/article/67/6/546/3784601
 
 First year expectations experimental design, UBC http://q4b.biology.ubc.ca/concept-inventories/statistical-reasoning-in-biology/
 
