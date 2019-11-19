@@ -5,7 +5,7 @@ The revision of the biology curiculuum with respect to quantitative training sho
 2. Foster quantitative literacy. In additon to basic numeracy, quantitative literacy implies that students will graduate wth the skills to critically assess and evaluate formal presentations of data and quantiative analyses (e.g., in a report, journal article). Not all students will graduate to be coders or statistical wizards, but all of our students should be comforatable reading and evaluating papers with quantitaitve methods appropriate to their steam/specialization (for example, statistical analyses, mathematical models, large data sets, graphs, computer code). 
 3. Develop students' confidence in handling and interpreting data. At minimmum, upon completing our BSc program (or potentially only specific streams of our program), if a student were given data and some context, the student can apply their biological knowledge to form a hypothesis, and make some progress on assessing whether the data support their hypothesis using statistics and/or data visualization.
 
-See document: "Draft quantiative learning goals" for detailed learning goals and objectives at each level: https://github.com/ahurford/quantitative-training-resources/blob/master/Draft%20Quantitative%20Learning%20Goals.pdf
+See document: "Draft quantiative learning goals" for detailed learning goals and objectives at each level: https://github.com/ahurford/quantitative-training-resources/blob/master/Documents%20in%20progress/Draft%20Quantitative%20Learning%20Goals.pdf
 
 ## BIOL 1001/1002
 Biology 1001 and 1002 lectures seems tightly focused around Campbell Biology, and as such, there is limited opportunity to deviate from the textbook.
@@ -21,7 +21,7 @@ Data archiving standards for professional biologists have now moved beyond writi
 Similarly, professional biologists have moved beyond making graphs using pencil and paper. Perhaps this isn't the place to require R, and we could accept graphs made in a variety of softwares, while also have developed resources for R, RStudio, and ggplot. Again, this should be a streamlined version of Week 5 from https://datacarpentry.org/semester-biology/schedule/, but may require some time as plotting requires some preliminary comments on built-in functions, loading packages, getting help, common errors, reading in data, etc. Expectations around figure captions should be revised. 
 
 ### Statistics
-_AH: These are some very specific suggestions that we need to integrate into https://github.com/ahurford/quantitative-training-resources/blob/master/Draft%20Quantitative%20Learning%20Goals.pdf and eventually remove from here_
+_AH: These are some very specific suggestions that we need to integrate into https://github.com/ahurford/quantitative-training-resources/blob/master/Documents%20in%20progress/Draft%20Quantitative%20Learning%20Goals.pdf and eventually remove from here_
 
 Having not yet required STAT 2550, BIOL 1001/1002 is not the place to start in on statistics, but it is the place to better prepare students for (1) the importance of statistics in biology; and (2) key concepts in statistics.
 
