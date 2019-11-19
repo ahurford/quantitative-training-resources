@@ -9,6 +9,8 @@ R for Data Science: https://r4ds.had.co.nz/
 
 Cookbook for R: http://www.cookbook-r.com/
 
+Introductory statistics (online free textbook): https://openstax.org/details/books/introductory-statistics
+
 # Books requested to be purchased at QEII
 - Biocalculus, probability, and statistics for the life sciences by James Stewart and Troy Day
 - Modeling the dynamics of life: calculus and probability for the life scientists by Frederick Adler
@@ -52,3 +54,8 @@ Recommended viewing for first year students: https://www.youtube.com/watch?v=UJQ
 
 # Carpentries Instructor Training Materials  
 Best practices for effective pedagogy with a focus in scientific programming: https://carpentries.github.io/instructor-training/  
+
+# Teaching Materials from other Universities
+Undegrad-level Computational Bio-statistics (1st and 2nd year) from Imperial College London: https://bitbucket.org/mhasoba/iccompbiostat/src/master/
+
+Statistics - An Introduction using R: http://www.bio.ic.ac.uk/research/crawley/statistics/ (data & exercises from Mick Crawley's Intro to Stats course at Imperial College London, discountinued in 2014 after he retired)
