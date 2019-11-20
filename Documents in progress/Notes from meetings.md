@@ -9,6 +9,7 @@
 1. DQ: 'Relative tables' terminology around data scinece
 1. DQ: 2-day carpentary workshops could be offered/support curiculuum.
 1. DQ: Has resources around date entry/archiving.
+1. JM: Recommends implementation using Juypter notebooks or similar.
 ----
 Townhall Nov 18, 2019
 
