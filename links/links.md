@@ -46,6 +46,8 @@ Teaching R to undergraduates: https://www.biorxiv.org/content/10.1101/666768v1
 
 Notation in ecology: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13105
 
+R tips from Dynamic Ecology (option for drop down menu approach to figures): https://dynamicecology.wordpress.com/2019/11/21/my-and-other-peoples-best-random-r-tips/
+
 # BIOL 4605
 http://www.mun.ca/biology/schneider/b4605/
 
