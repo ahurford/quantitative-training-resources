@@ -50,16 +50,15 @@ R tips from Dynamic Ecology (option for drop down menu approach to figures): htt
 
 Very good article on error bars: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2064100/
 
-# BIOL 4605
-http://www.mun.ca/biology/schneider/b4605/
-
 # Video
 Recommended viewing for first year students: https://www.youtube.com/watch?v=UJQ1F9dirRg&feature=youtu.be
 
 # Carpentries Instructor Training Materials  
 Best practices for effective pedagogy with a focus in scientific programming: https://carpentries.github.io/instructor-training/  
 
-# Teaching Materials from other Universities
+# Teaching Materials
 Undegrad-level Computational Bio-statistics (1st and 2nd year) from Imperial College London: https://bitbucket.org/mhasoba/iccompbiostat/src/master/
 
 Statistics - An Introduction using R: http://www.bio.ic.ac.uk/research/crawley/statistics/ (data & exercises from Mick Crawley's Intro to Stats course at Imperial College London, discountinued in 2014 after he retired)
+
+BIOL 4605 at MUN: http://www.mun.ca/biology/schneider/b4605/
