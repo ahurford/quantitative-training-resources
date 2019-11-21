@@ -48,6 +48,8 @@ Notation in ecology: https://besjournals.onlinelibrary.wiley.com/doi/full/10.111
 
 R tips from Dynamic Ecology (option for drop down menu approach to figures): https://dynamicecology.wordpress.com/2019/11/21/my-and-other-peoples-best-random-r-tips/
 
+Very good article on error bars: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2064100/
+
 # BIOL 4605
 http://www.mun.ca/biology/schneider/b4605/
 
