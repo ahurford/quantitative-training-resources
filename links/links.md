@@ -24,9 +24,9 @@ Introductory statistics (online free textbook): https://openstax.org/details/boo
 # Links to articles
 Skills and knowledge for Data-Intensive Environmental Research: https://academic.oup.com/bioscience/article/67/6/546/3784601
 
-First year expectations experimental design, UBC http://q4b.biology.ubc.ca/concept-inventories/statistical-reasoning-in-biology/
+Data archiving: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097
 
-https://www.macalester.edu/hhmi/biosquare/
+First year expectations experimental design, UBC http://q4b.biology.ubc.ca/concept-inventories/statistical-reasoning-in-biology/
 
 Teaching R coding: https://www.lifescied.org/doi/full/10.1187/cbe.19-02-0041
 
