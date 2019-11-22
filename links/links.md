@@ -50,6 +50,8 @@ R tips from Dynamic Ecology (option for drop down menu approach to figures): htt
 
 Very good article on error bars: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2064100/
 
+Great tips for making R fun: https://twitter.com/joyrevisited/status/1197311476027011073
+
 # Video
 Recommended viewing for first year students: https://www.youtube.com/watch?v=UJQ1F9dirRg&feature=youtu.be
 
