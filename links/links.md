@@ -5,6 +5,8 @@ Pirates guide to R: https://bookdown.org/ndphillips/YaRrr/
 
 BES Data manifesto: https://www.rss.org.uk/RSS/Influencing_Change/Data_democracy_sub/Data_manifesto.aspx?WebsiteKey=bc86df55-c2ae-4d73-8450-66ecc8988ded&hkey=5dd70207-82e7-4166-93fd-bcf9a2a1e496
 
+BES Reproducible code: https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf
+
 R for Data Science: https://r4ds.had.co.nz/
 
 Cookbook for R: http://www.cookbook-r.com/
