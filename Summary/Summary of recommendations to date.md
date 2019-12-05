@@ -133,6 +133,14 @@ The remaining reqirements are probably supported by all.
 
 Leading suggestions are eliminating the requirement of Organic Chem 2 and making the course requirments stream specific (As discussed at the Sept. 20 and Nov 7, 2019 BUGS meetings). 
 
+I choose three other Canadian universities for a quick comparison:
+
+- Dalhousie BSc in Biology: lighter load of required courses by requiring only 2 semesters of CHEM, no BIOCHEM, and no PHYS: https://www.dal.ca/faculty/science/biology/undergraduate/majors-and-minors/major-in-biology.html
+
+- Simon Fraser BSc in Biology: appears to have a similar load of required courses as compared to us  http://www.sfu.ca/students/calendar/2020/spring/programs/biological-sciences/major/bachelor-of-science.html
+
+- University of Alberta: Difficult to compare as Cell and Molecular Biology appears to be separated from Ecology, Evolution and Environmental Scinece.
+
 ## Making resources publically available
 A key aspect of making progress is continuity across courses within the major including STAT 2550 (Vision and Change can be cited regarding the importance of this point). What we are teaching about 'how to make a graph in R' in first or second year needs to flow up to third and fourth year. To this extent, we need to maintain public (github) and private (brightspace) repositories of our teaching materials.
 
