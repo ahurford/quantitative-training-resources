@@ -54,6 +54,8 @@ Very good article on error bars: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC20
 
 Great tips for making R fun: https://twitter.com/joyrevisited/status/1197311476027011073
 
+Package to make plotting easier: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000202
+
 # Video
 Recommended viewing for first year students: https://www.youtube.com/watch?v=UJQ1F9dirRg&feature=youtu.be
 
