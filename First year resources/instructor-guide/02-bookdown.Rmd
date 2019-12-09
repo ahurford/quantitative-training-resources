@@ -1,0 +1,15 @@
+# bookdown
+
+`bookdown` is an `R` package for typesetting. It allows use to produce `.html` files, `ebooks`, and `.pdf` files all with one click.
+
+- See here for a book explaining how to use `bookdown`: https://bookdown.org/yihui/bookdown/
+
+- These files are my first attempts at using `bookdown` and I've just been downloading the example files and editing: there may be some obselete text and files.
+
+- To produce a .pdf using `bookdown` requires a `latex` installation and the book cited above provides recommendations regarding specific details.
+
+- Each chapter is an `R` Markdown file. You can recommend edits on a chapter by just editing the `.Rmd` file if that is easier for you.
+
+- You can also provide recommendations without needing to use `R` at all. Just open the relevant `.Rmd` file in `MS Word` or a text editor (i.e., `TextEdit` on Mac OSX), and make simple edits (i.e., no inserting figures, links, no bulleted lists, etc).
+
+- You can email your revisions to me (<ahurford@mun.ca>) or submit your changes to the `Github` site associated with this book.

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  13 OCT 2019 10:51
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  9 DEC 2019 15:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -609,6 +609,10 @@ File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
+Package hyperref Info: Option `unicode' set `true' on input line 4374.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2017/03/14 v6.85a Hyperref: PDF Unicode definition (HO)
+)
 Package hyperref Info: Hyper figures OFF on input line 4498.
 Package hyperref Info: Link nesting OFF on input line 4503.
 Package hyperref Info: Hyper index ON on input line 4506.
@@ -644,9 +648,7 @@ Package hyperref Message: Driver (autodetected): hxetex.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2017/03/14 v6.85a Hyperref driver for XeTeX
-(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2017/03/14 v6.85a Hyperref: PDF Unicode definition (HO)
-) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/stringenc.sty
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/stringenc.sty
 Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
 )
 )
@@ -665,11 +667,6 @@ tly
 (rerunfilecheck)             and the loading of the package is aborted.
 )
 \Hy@SectionHShift=\skip52
-)
-Package hyperref Info: Option `unicode' set `true' on input line 29.
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
-File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
-
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 29.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/natbib/natbib.sty
@@ -764,11 +761,6 @@ Package grffile Info: Option `space' is set to `true'.
 Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2001/04/09 non-zero parskip adjustments
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/titling/titling.sty
-Package: titling 2009/09/04 v2.1d maketitle typesetting
-\thanksmarkwidth=\skip60
-\thanksmargin=\skip61
-\droptitle=\skip62
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
 \thm@style=\toks24
@@ -776,10 +768,15 @@ Package: amsthm 2015/03/04 v2.20.2
 \thm@headfont=\toks26
 \thm@notefont=\toks27
 \thm@headpunct=\toks28
-\thm@preskip=\skip63
-\thm@postskip=\skip64
-\thm@headsep=\skip65
+\thm@preskip=\skip60
+\thm@postskip=\skip61
+\thm@headsep=\skip62
 \dth@everypar=\toks29
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip63
+\thanksmargin=\skip64
+\droptitle=\skip65
 ) (./first-year-biology.aux)
 \openout1 = `first-year-biology.aux'.
 
@@ -920,21 +917,21 @@ Chapter 7.
 (./first-year-biology.bbl [19] [20
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 331.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 330.
 [21]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 331.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 330.
 (./first-year-biology.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 331.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 331.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 330.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 330.
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 21408 strings out of 493005
- 392229 string characters out of 6134596
- 504859 words of memory out of 5000000
- 25151 multiletter control sequences out of 15000+600000
+ 21398 strings out of 493005
+ 391947 string characters out of 6134596
+ 504916 words of memory out of 5000000
+ 25144 multiletter control sequences out of 15000+600000
  16367 words of font info for 45 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  41i,8n,54p,10416b,373s stack positions out of 5000i,500n,10000p,200000b,80000s

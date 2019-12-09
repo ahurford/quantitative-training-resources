@@ -1,0 +1,5 @@
+book_filename: "instructor-guide"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true

@@ -1,0 +1,11 @@
+# Getting started
+
+Thank you for taking the time to learn how to use our quantitative training materials to help your students.
+
+I am willing to help you with any problems you are having with the quantitative training modules for biology (<ahurford@mun.ca>). I can stop by your office to help you on your computer or you can stop by my office with your laptop.
+
+The first step is to download `R` and `RStudio` following the instructions provided also to the students. As of 2017, 58% of publications in ecology mention the use of `R` and useage has increased linearly at a rate of 5.8% per year since 2008 (citation). `R` is free. While `Excel` may feel familiar and _easier_, `R` has so much more power: I am writing this very document in `R` using a package that I installed for typesetting. I can use `R` to draw a map, or build a phylogeny, if I just install the right packages. `R` is a scripting language, but even the scripting component can be made easier by installing packages to reduce the scripting component until you build your confidence.
+
+In solidarity, I did not learn to code, or learn `R`, in a class either. I learned out of necessity during graduate studies, from my peers, or from the internet. So many of us have, and that is why we are now trying to provide the support, through teaching, that our next of biologists needs.
+
+I have no _hidden tricks_, all of my best advice is available in resources provided to our students. However, managing archived data using `Github` and editing these `bookdown` documents are instructor-specific task and the instructions to do so are provided on this site.

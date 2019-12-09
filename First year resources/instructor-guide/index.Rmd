@@ -1,0 +1,14 @@
+---
+title: "Instructor guide for biology quantitative training modules"
+author: "Amy Hurford"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+link-citations: yes
+github-repo: https://github.com/ahurford/quantitative-training-resources/tree/master/first-year-guide
+description: "Instructor guide for biology quantitative training module"
+---
+
+
+
