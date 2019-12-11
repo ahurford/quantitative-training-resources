@@ -1,8 +1,0 @@
-# Getting help
-
-## With R/RStudio
-- Internet
-- `?plot` and `??plot`
-- TAs, instructor, helpcenter, class mates
-
-## With Githbu

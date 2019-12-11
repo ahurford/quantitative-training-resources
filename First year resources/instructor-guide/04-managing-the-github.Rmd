@@ -1,0 +1,3 @@
+# Managing the github
+
+Instructors/TAs will need to approve pull requests submitted by the students.

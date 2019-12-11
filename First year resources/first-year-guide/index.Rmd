@@ -16,4 +16,4 @@ description: "Reference guide for first year biology"
 # Introduction
 
 - Why is this important
-- Why have we made the choices we did
+- Why have we made the choices we did (R, pedagogy citations)

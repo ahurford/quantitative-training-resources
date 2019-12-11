@@ -1,5 +1,9 @@
-#Submitting to Github
+# Submitting to Github
+
+The writing style for all documents should be to the point. Don't reinvent the wheel: where possible link out to the Software carpentaries or other similar quality documents.
 
 Here are some instructions for submitting to `github`: https://www.youtube.com/watch?v=2VC9pCMuvfU&t=28s
 
 These instructions to provide advice on how to suggest revisions to a repository when you are not a collabotor or the owner. Many of the resources that I found on the internet assumed that you wished to submit to your own repository, not someone else's. You will need a `github` account to use this approach. If you do not wish to use this approach just email me your changes (<ahurford@mun.ca>)
+
+
