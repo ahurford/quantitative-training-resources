@@ -1,9 +1,12 @@
 [
-["index.html", "Data management and plotting for BIOL 1001 and beyond using RStudio and Github Chapter 1 Introduction", " Data management and plotting for BIOL 1001 and beyond using RStudio and Github Amy Hurford 2019-12-11 Chapter 1 Introduction Why is this important Why have we made the choices we did (R, pedagogy citations) "],
+["index.html", "Introduction to data entry, visualization, and statistics for first year biology Chapter 1 Introduction", " Introduction to data entry, visualization, and statistics for first year biology Amy Hurford 2019-12-11 Chapter 1 Introduction Why is this important Why have we made the choices we did (R, pedagogy citations) "],
 ["entering-data.html", "Chapter 2 Entering data", " Chapter 2 Entering data In a text editor or excel. "],
-["intro.html", "Chapter 3 Software requirements 3.1 R 3.2 RStudio", " Chapter 3 Software requirements 3.1 R Each section will contain instructions describing how to install these software. 3.2 RStudio "],
-["loading-data-into-rstudio.html", "Chapter 4 Loading data into RStudio", " Chapter 4 Loading data into RStudio "],
-["section.html", "Chapter 5 ", " Chapter 5 "],
-["data-submission.html", "Chapter 6 Data submission", " Chapter 6 Data submission via upload file into github direct edit of github "],
+["submitting-your-data-to-a-repository.html", "Chapter 3 Submitting your data to a repository", " Chapter 3 Submitting your data to a repository "],
+["how-to-install-r-and-r-studio.html", "Chapter 4 How to install R and R Studio 4.1 R 4.2 RStudio", " Chapter 4 How to install R and R Studio 4.1 R Each section will contain instructions describing how to install these software. 4.2 RStudio "],
+["finding-your-way-around-rstudio.html", "Chapter 5 Finding your way around RStudio", " Chapter 5 Finding your way around RStudio "],
+["installing-a-package.html", "Chapter 6 Installing a package", " Chapter 6 Installing a package "],
+["a-simple-approach-for-loading-data-into-rstudio.html", "Chapter 7 A simple approach for loading data into RStudio", " Chapter 7 A simple approach for loading data into RStudio "],
+["making-a-graph-with-ggplot-in-rstudio.html", "Chapter 8 Making a graph with ggplot in RStudio", " Chapter 8 Making a graph with ggplot in RStudio "],
+["data-submission.html", "Chapter 9 Data submission", " Chapter 9 Data submission via upload file into github direct edit of github "],
 ["references.html", "References", " References "]
 ]

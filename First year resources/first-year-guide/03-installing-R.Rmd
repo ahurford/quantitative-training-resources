@@ -1,4 +1,4 @@
-# Software requirements {#intro}
+# How to install R and R Studio
 
 ## R
 Each section will contain instructions describing how to install these software.

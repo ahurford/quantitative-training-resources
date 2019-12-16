@@ -21,9 +21,9 @@
 \usepackage{microtype}
 \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
-\usepackage[unicode=true]{hyperref}
-\hypersetup{
-            pdftitle={Data management and plotting for BIOL 1001 and beyond},
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={Introduction to data entry, visualization, and statistics},
             pdfauthor={Amy Hurford},
             pdfborder={0 0 0},
             breaklinks=true}
@@ -59,12 +59,34 @@
 \let\oldsubparagraph\subparagraph
 \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
 \fi
-\usepackage{etoolbox}
-\makeatletter
-\providecommand{\subtitle}[1]{% add subtitle to \maketitle
-  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\providecommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
 }
-\makeatother
+
+\setlength{\droptitle}{-2em}
+
+  \title{Introduction to data entry, visualization, and statistics}
+    \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+  \subtitle{for first year biology}
+  \author{Amy Hurford}
+    \preauthor{\centering\large\emph}
+  \postauthor{\par}
+      \predate{\centering\large\emph}
+  \postdate{\par}
+    \date{2019-12-11}
+
 \usepackage{booktabs}
 \usepackage{amsthm}
 \makeatletter
@@ -73,28 +95,6 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
-% https://github.com/rstudio/rmarkdown/issues/337
-\let\rmarkdownfootnote\footnote%
-\def\footnote{\protect\rmarkdownfootnote}
-
-% https://github.com/rstudio/rmarkdown/pull/252
-\usepackage{titling}
-\setlength{\droptitle}{-2em}
-
-\pretitle{\vspace{\droptitle}\centering\huge}
-\posttitle{\par}
-
-\preauthor{\centering\large\emph}
-\postauthor{\par}
-
-\predate{\centering\large\emph}
-\postdate{\par}
-
-\title{Data management and plotting for BIOL 1001 and beyond}
-\providecommand{\subtitle}[1]{}
-\subtitle{using RStudio and Github}
-\author{Amy Hurford}
-\date{2019-12-11}
 
 \begin{document}
 \maketitle
@@ -117,7 +117,11 @@
 
 In a text editor or excel.
 
-\chapter{Software requirements}\label{intro}
+\chapter{Submitting your data to a
+repository}\label{submitting-your-data-to-a-repository}
+
+\chapter{How to install R and R
+Studio}\label{how-to-install-r-and-r-studio}
 
 \section{R}\label{r}
 
@@ -126,9 +130,16 @@ software.
 
 \section{RStudio}\label{rstudio}
 
-\chapter{Loading data into RStudio}\label{loading-data-into-rstudio}
+\chapter{Finding your way around
+RStudio}\label{finding-your-way-around-rstudio}
 
-\chapter{}\label{section}
+\chapter{Installing a package}\label{installing-a-package}
+
+\chapter{A simple approach for loading data into
+RStudio}\label{a-simple-approach-for-loading-data-into-rstudio}
+
+\chapter{Making a graph with ggplot in
+RStudio}\label{making-a-graph-with-ggplot-in-rstudio}
 
 \chapter{Data submission}\label{data-submission}
 
@@ -141,5 +152,6 @@ software.
 \end{itemize}
 
 \bibliography{book.bib,packages.bib}
+
 
 \end{document}

@@ -1,6 +1,6 @@
 --- 
-title: "Data management and plotting for BIOL 1001 and beyond"
-subtitle: "using RStudio and Github"
+title: "Introduction to data entry, visualization, and statistics"
+subtitle: "for first year biology"
 author: "Amy Hurford"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
