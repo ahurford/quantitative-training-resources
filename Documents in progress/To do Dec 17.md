@@ -2,8 +2,8 @@ Quant Work Plan (based on Dec. 17, 2019 meeting)
 
 To do’s: 
 
--	Produce video “orientation to R”. Also make accomponying text materials.
--	Develop code/lab materials to go with osmosis lab (BIOL 1001)
+-	Produce video “orientation to R”. Also make accomponying text materials (Joany)
+-	Develop code/lab materials to go with osmosis lab (BIOL 1001 - Joany)
 -	Develop code/lab materials to go with yeast lab (BIOL 1001)
 -	Develop a lab/video content for data visualization “lab” exercise.
 
