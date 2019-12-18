@@ -1,14 +1,20 @@
-These are _preliminary_ ideas, consulation is ongoing and I welcome feedback. My current thoughts are shaped by Hampton et al. 2017, which I highly recommend (https://academic.oup.com/bioscience/article/67/6/546/3784601). The last edits on this document reflect discussions with BUGS on Nov 7, 2019.
+This summary covers activities through the end of the Fall semester 2019.
+
+During this time Amy Hurford had meetings with BUGS (2), Dave Schniedier, Danielle Quinn, an EcoEvo meeting open to all members of the department, Ed Whalen, Yolanda, Eric, Shawn, as well as email exchanges or brief communication with Dawn Bignell, Kapil Tahlan, Andrew Lang, Lourdes Pena-Castillo, Piotr Trela, Margret Caldwell, Sally Goodard, Hope Bennett, Valerie Power, Fiona Cuthbert.
+
+My initial thoughts are shaped by Hampton et al. 2017, which I highly recommend (https://academic.oup.com/bioscience/article/67/6/546/3784601).
 
 The revision of the biology curiculuum with respect to quantitative training should have three objectives:
 1. Give biology majors training in the quantitative skills that are necessary for successful completion of 3000 and 4000 courses in their choosen stream (these skills should include those listed in Table 2 of Hampton et al. 2017);
-2. Foster quantitative literacy. In additon to basic numeracy, quantitative literacy implies that students will graduate wth the skills to critically assess and evaluate formal presentations of data and quantiative analyses (e.g., in a report, journal article). Not all students will graduate to be coders or statistical wizards, but all of our students should be comforatable reading and evaluating papers with quantitaitve methods appropriate to their steam/specialization (for example, statistical analyses, mathematical models, large data sets, graphs, computer code). 
+2. Foster quantitative literacy. In additon to basic numeracy, quantitative literacy implies that students will graduate with the skills to critically assess and evaluate formal presentations of data and quantiative analyses (e.g., in a report, journal article). Not all students will graduate to be coders or statistical wizards, but all of our students should be comfortable reading and evaluating papers with quantitaitve methods appropriate to their steam/specialization (for example, statistical analyses, mathematical models, large data sets, graphs, computer code). 
 3. Develop students' confidence in handling and interpreting data. At minimmum, upon completing our BSc program (or potentially only specific streams of our program), if a student were given data and some context, the student can apply their biological knowledge to form a hypothesis, and make some progress on assessing whether the data support their hypothesis using statistics and/or data visualization.
 
-See document: "Draft quantiative learning goals" for detailed learning goals and objectives at each level: https://github.com/ahurford/quantitative-training-resources/blob/master/Documents%20in%20progress/Draft%20Quantitative%20Learning%20Goals.pdf
+See document: "Draft quantiative learning goals" for detailed learning goals and objectives at each level (document in progress): https://github.com/ahurford/quantitative-training-resources/blob/master/Documents%20in%20progress/Draft%20Quantitative%20Learning%20Goals.pdf
+
+In addition, Amy emailed Carissa Brown to request a copy of geography's quantitative training document.
 
 ## BIOL 1001/1002
-Biology 1001 and 1002 lectures seems tightly focused around Campbell Biology, and as such, there is limited opportunity to deviate from the textbook.
+Biology 1001 and 1002 lectures seems tightly focused around Campbell Biology, and as such, there is limited opportunity to deviate from the textbook. This was the feedback given from Sally, Piotr, and Magaret. We note that there are nice quantiative exercises contained within Campbell Biology.
 
 ## BIOL 1001/1002 Labs
 ### Revise lab manual text to give an updated description of what biologists do
@@ -18,7 +24,7 @@ The lab manual needs to be edited to communicate current practices for researche
 Data archiving standards for professional biologists have now moved beyond writing results in a notebook, and we need to give the students exposure to these expectations. These expectations should be a streamlined version of Week 1 https://datacarpentry.org/semester-biology/schedule/ and Emilie and Danielle may also have relevant materials. Specifically, Q.2 of the assignment for week 1 https://datacarpentry.org/semester-biology/assignments/sql-data/ reflects similar expectations as to what we should have for first year biology. We will ask first year students to archive data in an electronic format and submit to a github repository. We might also discuss what is metadata and Ecological Metadata Language (https://joss.theoj.org/papers/10.21105/joss.01276). We need to provide training/documentation for lab instructors and TAs on github, both for help the students to submit their data, but also on merging the pull requests from the submitted data.
 
 ### Graphs
-Similarly, professional biologists have moved beyond making graphs using pencil and paper. Perhaps this isn't the place to require R, and we could accept graphs made in a variety of softwares, while also have developed resources for R, RStudio, and ggplot. Again, this should be a streamlined version of Week 5 from https://datacarpentry.org/semester-biology/schedule/, but may require some time as plotting requires some preliminary comments on built-in functions, loading packages, getting help, common errors, reading in data, etc. Expectations around figure captions should be revised. 
+Similarly, professional biologists have moved beyond making graphs using pencil and paper. Perhaps we could accept graphs made in a variety of softwares, while also have developed resources for R, RStudio, and ggplot. Again, this should be a streamlined version of Week 5 from https://datacarpentry.org/semester-biology/schedule/, but may require some time as plotting requires some preliminary comments on built-in functions, loading packages, getting help, common errors, reading in data, etc. Expectations around figure captions should be revised. 
 
 ### Statistics
 _AH: These are some very specific suggestions that we need to integrate into https://github.com/ahurford/quantitative-training-resources/blob/master/Documents%20in%20progress/Draft%20Quantitative%20Learning%20Goals.pdf and eventually remove from here_
@@ -34,24 +40,27 @@ Regarding (2), (and these recommendations are made primarily from my conversatio
 2. We need to expect that some indication of spread is reported, i.e. error bars on bar plots where the error bars represent the range (i.e. from the min to the max observation) and the figure caption is required to specify what the error bars show.
 
 ### Add/Remove/Revise 1001/1002 labs
-At least one lab needs to be added to prepare students for our new expectations on data archiving and graphs. We may need to remove 1 existing lab to do this. We may need to lighten the content for some labs that we will now be requiring electronic data entry and graphs.
+At least one lab needs to be added to prepare students for our new expectations on data archiving and graphs. This lab will also cover data vizualization and choosing what type of graph to use. We may need to remove 1 existing lab to do this. We may need to lighten the content for some labs that we will now be requiring electronic data entry and graphs.
 
 ### Publically available as an ebook
-The BIOL 1001 and 1002 lab manuals will be available as ebooks as well as hardcopies. The transfer to an ebook will be completed in the winter and summer of 2020 using the bookdown package for R and will be completed by the TA hired to work with AH on our quantitative program.
+The BIOL 1001 and 1002 lab manuals will be available as ebooks as well as hardcopies. The transfer to an ebook will be completed in the winter and summer of 2020 using the bookdown package for R and will be completed by the TA hired to work with AH on our quantitative program. It is essential that the materials are available digitially so that we can link to existing online resources such as the carpentaries and ebooks. It is also essential to retain the hardcopy because not all labs will use computers.
 
 ## A 2000-level "Datacarpentary in Biology"
-I recommend introducing a required second your course that is "Datacarpentary in Biology", "Handling biological data", or "Tools and techniques in biology". The course could draw on materials from here: https://datacarpentry.org/semester-biology/schedule/. The linked course is a graduate-level course and so the idea is to spread the content across 13 weeks to resuls in a course appropriate for the 2000-level. This course could be offered as lab-only. 
-Topics:
-1. Data entry and storage (Excel, OpenOffice, Text editor)
-2. Intro to R (Basic expressions, Basic variables, More variables, Built-in functions)
-3. Intro to R (Modify the code, import data)
-4. Analyzing Data (dpylr, import and analyze)
-5. Data vizulalization (ggplot)
-6. Working with spatial data (R)
-7. Data vizualization 2 (R)
-8. Combining everything (R)
+Initially, I had wanted to recommend a new second year course: "Datacarpentary in Biology", "Handling biological data","Tools and techniques in biology" or "Concepts and Principles in Biology". The course could draw on materials from here: https://datacarpentry.org/semester-biology/schedule/ (which has a github repository and I emailed Ethan White and he is more than okay with use borrow and modifying his materials). The linked course is a graduate-level course and so the idea is to spread the content across 13 weeks to resuls in a course appropriate for the 2000-level. A course proposal was drafted here: https://github.com/ahurford/quantitative-training-resources/blob/master/Documents%20in%20progress/2020%20%20New%20Course%20Proposal%20Biol%202XXX%20Data%20skills%20for%20Biologists.docx
 
 Each week the documentataion and exercises could be based around a different second year required course, i.e. Week 1: Data entry and storage use examples from Cell Biology; Week 2 Intro to R uses examples based from Ecology; and so forth for Genetics, Evolution and Physiology. This would also open up the possibility to pilot these labs at the second year level if instructors are willing and while the proposed course is undergoing university approval.
+
+The idea to propose a basic R programming and quantitative literacy course for biologists at the second year was shelved following the meeting with Yolanda, Eric, and Shawn on December 17 for the following reasons:
+
+- I am concerned that Lourdes feels that we should instead require a CS course on general programming. I see Lourdes as a key component of our quantitative training going forward.
+
+- The Dean of Science does not want courses that duplicate resources
+
+- Teaching faculty are a scarce resource: whoever teaches this second year course then becomes unavailable at the third and fourth year level
+
+- 2000- is the appropriate level for such a course, and the course it needed, but currently the second year course requirements for the biology major are very heavy, and so it is not possible to add this course (or any course) without a broader discussion of our curiculuum.
+
+Having 
 
 ## Recommendations for BIOL 2000-level courses and beyond
 We will maintain resources and guidelines to help with quantitative content in 2000- and above courses. Resources could include ready-made activities and exercises for use in lecture and/or lab, as well as training/workshops for faculty and lab instructors/TAs. 
