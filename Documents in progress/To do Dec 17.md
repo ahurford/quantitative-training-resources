@@ -1,4 +1,5 @@
 Quant Work Plan (based on Dec. 17, 2019 meeting)
+
 To do’s: 
 
 -	Produce video “orientation to R”. Also make accomponying text materials.
