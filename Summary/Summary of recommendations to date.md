@@ -1,6 +1,6 @@
 This summary covers activities through the end of the Fall semester 2019.
 
-During this time Amy Hurford had meetings with BUGS (2), Dave Schniedier, Danielle Quinn, an EcoEvo meeting open to all members of the department, Ed Whalen, Yolanda, Eric, Shawn, as well as email exchanges or brief communication with Dawn Bignell, Kapil Tahlan, Andrew Lang, Lourdes Pena-Castillo, Piotr Trela, Margret Caldwell, Sally Goodard, Hope Bennett, Valerie Power, Fiona Cuthbert.
+During this time I have had meetings with BUGS (2), Dave Schniedier, Danielle Quinn, an EcoEvo meeting open to all members of the department, Ed Whalen, Yolanda, Eric, Shawn, as well as email exchanges or brief communication with Dawn Bignell, Kapil Tahlan, Andrew Lang, Lourdes Pena-Castillo, Piotr Trela, Margret Caldwell, Sally Goodard, Hope Bennett, Valerie Power, and Fiona Cuthbert.
 
 My initial thoughts are shaped by Hampton et al. 2017, which I highly recommend (https://academic.oup.com/bioscience/article/67/6/546/3784601).
 
@@ -11,10 +11,10 @@ The revision of the biology curiculuum with respect to quantitative training sho
 
 See document: "Draft quantiative learning goals" for detailed learning goals and objectives at each level (document in progress): https://github.com/ahurford/quantitative-training-resources/blob/master/Documents%20in%20progress/Draft%20Quantitative%20Learning%20Goals.pdf
 
-In addition, Amy emailed Carissa Brown to request a copy of geography's quantitative training document.
+In addition, I emailed Carissa Brown to request a copy of geography's quantitative training document.
 
 ## BIOL 1001/1002
-Biology 1001 and 1002 lectures seems tightly focused around Campbell Biology, and as such, there is limited opportunity to deviate from the textbook. This was the feedback given from Sally, Piotr, and Magaret. We note that there are nice quantiative exercises contained within Campbell Biology.
+Biology 1001 and 1002 lectures seems tightly focused around Campbell Biology, and as such, there is limited opportunity to deviate from the textbook. This was the feedback given from Sally, Piotr, and Margaret. We note that there are nice quantiative exercises contained within Campbell Biology.
 
 ## BIOL 1001/1002 Labs
 ### Revise lab manual text to give an updated description of what biologists do
@@ -60,7 +60,7 @@ The idea to propose a basic R programming and quantitative literacy course for b
 
 - 2000- is the appropriate level for such a course, and the course it needed, but currently the second year course requirements for the biology major are very heavy, and so it is not possible to add this course (or any course) without a broader discussion of our curiculuum.
 
-Having 
+Having shelfed this idea, currently we plan to develop labs for second year to develop related skills. It should be noted that we are having work within a constrained space (limited resources and a heavy load of required courses) and these constraints are obstacles that reduce our ability effect change in the area of quantitative training. In addition, if we are to work within the scope of existing courses, there needs to be support from leadership in the department, both in terms of identifying quantitative training as a priority for our department, and providing the resources to effect change (i.e., currently we have a TA to help us with this for 3 semesters).
 
 ## Recommendations for BIOL 2000-level courses and beyond
 We will maintain resources and guidelines to help with quantitative content in 2000- and above courses. Resources could include ready-made activities and exercises for use in lecture and/or lab, as well as training/workshops for faculty and lab instructors/TAs. 
