@@ -13,6 +13,11 @@ See document: "Draft quantiative learning goals" for detailed learning goals and
 
 In addition, I emailed Carissa Brown to request a copy of geography's quantitative training document.
 
+### Publically available as an ebook
+A Quantitative training in biology manual will be developed and available as an online resource that is publically available. This document will contain all the resources and labs that we have developed pertaining to quantitative training in biology. This is no different than requiring any other publically available ebook for a course, so it does not need to be hosted on brightspace. It is essential that the materials are available digitially so that we can link to existing online resources such as the carpentaries and ebooks.
+
+Existing lab manuals will be retained in their current form, but will be edited to reference links to the labs which are from the quantitative training manual.
+
 ## BIOL 1001/1002
 Biology 1001 and 1002 lectures seems tightly focused around Campbell Biology, and as such, there is limited opportunity to deviate from the textbook. This was the feedback given from Sally, Piotr, and Margaret. We note that there are nice quantiative exercises contained within Campbell Biology.
 
@@ -42,9 +47,6 @@ Regarding (2), (and these recommendations are made primarily from my conversatio
 ### Add/Remove/Revise 1001/1002 labs
 At least one lab needs to be added to prepare students for our new expectations on data archiving and graphs. This lab will also cover data vizualization and choosing what type of graph to use. We may need to remove 1 existing lab to do this. We may need to lighten the content for some labs that we will now be requiring electronic data entry and graphs.
 
-### Publically available as an ebook
-The BIOL 1001 and 1002 lab manuals will be available as ebooks as well as hardcopies. The transfer to an ebook will be completed in the winter and summer of 2020 using the bookdown package for R and will be completed by the TA hired to work with AH on our quantitative program. It is essential that the materials are available digitially so that we can link to existing online resources such as the carpentaries and ebooks. It is also essential to retain the hardcopy because not all labs will use computers.
-
 ## A 2000-level "Datacarpentary in Biology"
 Initially, I had wanted to recommend a new second year course: "Datacarpentary in Biology", "Handling biological data","Tools and techniques in biology" or "Concepts and Principles in Biology". The course could draw on materials from here: https://datacarpentry.org/semester-biology/schedule/ (which has a github repository and I emailed Ethan White and he is more than okay with use borrow and modifying his materials). The linked course is a graduate-level course and so the idea is to spread the content across 13 weeks to resuls in a course appropriate for the 2000-level. A course proposal was drafted here: https://github.com/ahurford/quantitative-training-resources/blob/master/Documents%20in%20progress/2020%20%20New%20Course%20Proposal%20Biol%202XXX%20Data%20skills%20for%20Biologists.docx
 
@@ -60,7 +62,7 @@ The idea to propose a basic R programming and quantitative literacy course for b
 
 - 2000- is the appropriate level for such a course, and the course it needed, but currently the second year course requirements for the biology major are very heavy, and so it is not possible to add this course (or any course) without a broader discussion of our curiculuum.
 
-Having shelfed this idea, currently we plan to develop labs for second year to develop related skills. It should be noted that we are having work within a constrained space (limited resources and a heavy load of required courses) and these constraints are obstacles that reduce our ability effect change in the area of quantitative training. In addition, if we are to work within the scope of existing courses, there needs to be support from leadership in the department, both in terms of identifying quantitative training as a priority for our department, and providing the resources to effect change (i.e., currently we have a TA to help us with this for 3 semesters).
+Having shelfed this idea, currently we plan to develop labs for second year to develop related skills. It should be noted that we are having to work within a constrained space (limited instructor availability and a heavy load of required courses) and these constraints reduce our ability effect change in the area of quantitative training. In addition, if we are to work within the scope of existing courses, there needs to be support from leadership in the department, both in terms of identifying quantitative training as a priority for our department (so that individual instructors know to support the quantitative training initiative), and providing the resources to effect change (i.e., currently we have a TA to help us with this for 3 semesters, and this TA is the main avenue through which we can affect change).
 
 ## Recommendations for BIOL 2000-level courses and beyond
 We will maintain resources and guidelines to help with quantitative content in 2000- and above courses. Resources could include ready-made activities and exercises for use in lecture and/or lab, as well as training/workshops for faculty and lab instructors/TAs. 
