@@ -13,6 +13,8 @@ Cookbook for R: http://www.cookbook-r.com/
 
 Introductory statistics (online free textbook): https://openstax.org/details/books/introductory-statistics
 
+Data vizualization https://github.com/lockedata/datasauRus
+
 # Books requested to be purchased at QEII
 - Biocalculus, probability, and statistics for the life sciences by James Stewart and Troy Day
 - Modeling the dynamics of life: calculus and probability for the life scientists by Frederick Adler
