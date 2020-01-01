@@ -1,5 +1,5 @@
 --- 
-title: "Introduction to data entry, visualization, and statistics"
+title: "Quantitative skills"
 subtitle: "for first year biology"
 author: "Amy Hurford"
 date: "`r Sys.Date()`"
@@ -10,10 +10,11 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: https://github.com/ahurford/quantitative-training-resources/tree/master/first-year-guide
-description: "Reference guide for first year biology"
+description: "Quantitative skills for first year biology"
 ---
 
 # Introduction
+Quantitative skills are important in biology. Quantitative skills include performing statistical analyses, using computer software to manage and reformat data, designing experiments, understanding graphs, vizualizing data, identifying genes from DNA sequences, and making phylogenies. Many of these tasks are now performed using computers, and elements of computer programming, statistics, and applied mathematics can be useful for professional biologists. Quantitative skills are being incorporated throughout the biology major.
 
 - Why is this important
 - Why have we made the choices we did (R, pedagogy citations)
