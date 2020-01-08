@@ -4,19 +4,16 @@ During this time I have had meetings with BUGS (2), Dave Schniedier, Danielle Qu
 
 My initial thoughts are shaped by Hampton et al. 2017, which I highly recommend (https://academic.oup.com/bioscience/article/67/6/546/3784601).
 
-The revision of the biology curiculuum with respect to quantitative training should have three objectives:
-1. Give biology majors training in the quantitative skills that are necessary for successful completion of 3000 and 4000 courses in their choosen stream (these skills should include those listed in Table 2 of Hampton et al. 2017);
-2. Foster quantitative literacy. In additon to basic numeracy, quantitative literacy implies that students will graduate with the skills to critically assess and evaluate formal presentations of data and quantiative analyses (e.g., in a report, journal article). Not all students will graduate to be coders or statistical wizards, but all of our students should be comfortable reading and evaluating papers with quantitaitve methods appropriate to their steam/specialization (for example, statistical analyses, mathematical models, large data sets, graphs, computer code). 
-3. Develop students' confidence in handling and interpreting data. At minimmum, upon completing our BSc program (or potentially only specific streams of our program), if a student were given data and some context, the student can apply their biological knowledge to form a hypothesis, and make some progress on assessing whether the data support their hypothesis using statistics and/or data visualization.
+The revision of the biology curiculuum with respect to quantitative training should have two objectives:
+1. Quantitative literacy. Students should be comfortable reading and evaluating papers with quantitaitve methods appropriate to their steam/specialization (for example, statistical analyses, mathematical models, large data sets, graphs, computer code). Skills could include those listed in Table 2 of Hampton et al. 2017.
+2. Develop students' confidence in handling and interpreting data. At minimmum, upon completing our BSc program (or potentially only specific streams of our program), if a student were given data and some context, the student can apply their biological knowledge to form a hypothesis, and make some progress on assessing whether the data support their hypothesis using statistics and/or data visualization.
 
-See document: "Draft quantiative learning goals" for detailed learning goals and objectives at each level (document in progress): https://github.com/ahurford/quantitative-training-resources/blob/master/Documents%20in%20progress/Draft%20Quantitative%20Learning%20Goals.pdf. This document requires restructuring and further work.
-
-In addition, I emailed Carissa Brown to request a copy of geography's quantitative training document at the request of Eric Vanderwal, but have not received a reply.
+See document: "Draft quantiative learning goals" for detailed learning goals and objectives at each level (document in progress): https://github.com/ahurford/quantitative-training-resources/blob/master/Documents%20in%20progress/Draft%20Quantitative%20Learning%20Goals.pdf. In addition, I emailed Carissa Brown to request a copy of geography's quantitative training document at the request of Eric Vanderwal, but have not received a reply.
 
 ### Publically available as an ebook
-A Quantitative training in biology manual will be developed and available as an online resource that is publically available and hosted on Gitlab. Courses can provide the link to the ebook on brightspace. It is essential that the quant materials are available digitially so that we can link to existing online resources such as the carpentaries and ebooks, or where to download R.
+A Quantitative training in biology manual will be developed and available as an online resource that is publically available and hosted on Gitlab. Courses can provide the link to the ebook on brightspace. It is essential that the quant materials are available digitially so that we can link to existing online resources such as the carpentaries, ebooks, and where to download software (i.e., R/RStudio).
 
-Existing lab manuals will be retained in their current form, but will be edited to reference links to the labs which are from the quantitative training manual.
+Existing lab manuals will be retained in their current hardcopy form, but will be edited to reference links to material available online.
 
 ## BIOL 1001/1002
 Biology 1001 and 1002 lectures seems tightly focused around Campbell Biology, and as such, there is limited opportunity to deviate from the textbook. This was the feedback given from Sally, Piotr, and Margaret. We note that there are nice quantiative exercises contained within Campbell Biology.
@@ -28,11 +25,11 @@ The lab manual needs to be edited to communicate current practices for researche
 ### Tables
 Data archiving standards for professional biologists have now moved beyond writing results in a notebook, and we need to give the students exposure to these expectations. These expectations should be a streamlined version of Week 1 https://datacarpentry.org/semester-biology/schedule/ and Emilie and Danielle may also have relevant materials. Specifically, Q.2 of the assignment for week 1 https://datacarpentry.org/semester-biology/assignments/sql-data/ reflects similar expectations as to what we should have for first year biology. We might also discuss what is metadata and Ecological Metadata Language (https://joss.theoj.org/papers/10.21105/joss.01276). 
 
-### Data archiving (not sure if this should be implement for F2020)
-We may ask first year students to electronically submit their data to a github/gitlab repository. We would require the students to consent to having their data be publically availabile and perhaps anonymize. This would also require that the students create a free github/gitlab account, which may be problematic for the university. This would also require some training of staff to understand how to manage the data repository that we've created.  We need to provide training/documentation for lab instructors and TAs on github, both for help the students to submit their data, but also on merging the pull requests from the submitted data.
+### Data archiving (not sure if this should be implemented for F2020)
+We may ask first year students to electronically submit their data to a github/gitlab repository. We would require the students to consent to having their data be publically availabile and anonymize. This would also require that the students create a free github/gitlab account, which may be problematic for the university.  We would need to provide training/documentation for lab instructors and TAs on github, both for help the students to submit their data, but also on merging the pull requests from the submitted data.
 
 ### Graphs
-Similarly, professional biologists have moved beyond making graphs using pencil and paper. Perhaps we could accept graphs made in a variety of softwares, while also have developed resources for R, RStudio, and ggplot. Again, this should be a streamlined version of Week 5 from https://datacarpentry.org/semester-biology/schedule/, but may require some time as plotting requires some preliminary comments on built-in functions, loading packages, getting help, common errors, reading in data, etc. Expectations around figure captions should be revised. 
+Similarly, professional biologists have moved beyond making graphs using pencil and paper. Perhaps we could accept graphs made in a variety of softwares, while also have developed resources for R, RStudio, and ggplot, so this is an option. Again, this should be a streamlined version of Week 5 from https://datacarpentry.org/semester-biology/schedule/, but may require some time as plotting requires some preliminary comments on built-in functions, loading packages, getting help, common errors, reading in data, etc. Expectations around figure captions in the biology lab manual could be revised. 
 
 ### Statistics
 _AH: These are some very specific suggestions that we need to integrate into https://github.com/ahurford/quantitative-training-resources/blob/master/Documents%20in%20progress/Draft%20Quantitative%20Learning%20Goals.pdf and eventually remove from here_
@@ -41,14 +38,37 @@ Having not yet required STAT 2550, BIOL 1001/1002 is not the place to start in o
 
 (1) will be addressed by revisions to the lab manual.
 
-Regarding (2), (and these recommendations are made primarily from my conversations with DS):
+Regarding (2), (and these recommendations are made primarily from my conversations with Dave Schneider):
 
 1. Currently, first year students are taught to write a hypothesis and a prediction. We need to add: sketch a graph of the results if your hypothesis was supported; draw a graph if your hypothesis is not supported; and write the equations that correspond to each of your graphs. To teach this we need to say, 'if you think _y_ increases with _x_, but you're not quite sure exactly how, the default assumption, given that _x_ is a continous variable, is that there is a linear relationship, _y=mx+c_. In writing the equations, students get to choose their notation. This is powerful, because biology involves a lot of non-conventional notation, for example, dN/dt = r N (exponential growth), if dN/dt is plotted on the y-axis, and N is plotted on the x-axis, is a straight line with a zero y-intercept and a slope of r, but the notation is a barrier because it isn't in the form _y = mx_.
 
 2. We need to expect that some indication of spread is reported, i.e. error bars on bar plots where the error bars represent the range (i.e. from the min to the max observation) and the figure caption is required to specify what the error bars show.
 
 ### Add/Remove/Revise 1001/1002 labs
-At least one lab needs to be added to prepare students for our new expectations on data archiving and graphs. This lab will also cover data vizualization and choosing what type of graph to use. We may need to remove 1 existing lab to do this. We may need to lighten the content for some labs that we will now be requiring electronic data entry and graphs.
+
+BIOL 1001
+---------
+
+'Laboratory 1 - Observational skills and Introduction to Labs (Install R, RStudio, make Github account). +0.5 hrs.
+
+'Laboratory X' - Quantitative skills I. 2 hrs. We will take some data from the Campbell biology textbook quant exercises and get the students to practice entering the data and graphing it. Also, writing hypotheses as equations.
+
+'Laboratory 3 - Diffusion and Osmosis' (currently, hypothesis, table, required). Add hypothesis as an equation, e-graph and url to e-data submission in written report. +0.5hrs
+
+'Laboratory 7 - Photosynthesis' (currently, hypothesis, table, graph required) +0.5hr. As for Laboratory 3. +0.5 hrs.
+
+One existing lab to be removed.
+
+BIOL 1002
+---------
+
+'Laboratory 2 - Transpiration' (currently hypothesis, table, graph required)
+
+'Laboratory 5 - Daphnia' (currently, hypothesis, table graph required)
+
+'Laboratory 6 - Countercurrent exchange' (currently, hypothesis, table graph required)
+
+'Laboratory 8 - Organisms response to environmental conditions' (currently, hypothesis, table graph required)
 
 ## A 2000-level "Datacarpentary in Biology"
 Initially, I had wanted to recommend a new second year course: "Datacarpentary in Biology", "Handling biological data","Tools and techniques in biology" or "Concepts and Principles in Biology". The course could draw on materials from here: https://datacarpentry.org/semester-biology/schedule/ (which has a github repository and I emailed Ethan White and he is more than okay with use borrow and modifying his materials). The linked course is a graduate-level course and so the idea is to spread the content across 13 weeks to resuls in a course appropriate for the 2000-level. A course proposal was drafted here: https://github.com/ahurford/quantitative-training-resources/blob/master/Documents%20in%20progress/2020%20%20New%20Course%20Proposal%20Biol%202XXX%20Data%20skills%20for%20Biologists.docx
@@ -156,7 +176,7 @@ I choose three other Canadian universities for a quick comparison:
 - University of Alberta: Difficult to compare as Cell and Molecular Biology appears to be separated from Ecology, Evolution and Environmental Scinece.
 
 ## Making resources publically available
-A key aspect of making progress is continuity across courses within the major including STAT 2550 (Vision and Change can be cited regarding the importance of this point). What we are teaching about 'how to make a graph in R' in first or second year needs to flow up to third and fourth year. To this extent, we need to maintain public (github) and private (brightspace) repositories of our teaching materials.
+A key aspect of making progress is continuity across courses within the major including STAT 2550 (Vision and Change can be cited regarding the importance of this point). What we are teaching about 'how to make a graph in R' in first or second year needs to flow up to third and fourth year. To this extent, we need to maintain public (github/gitlab) and private (brightspace) repositories of our teaching materials.
 
 ## Computing and software requirements
 We should develop a policy on our expectations (i.e., are undergrads expected to have access to a personal computer, and if so, what minimum specs) and quantify demand for departmental computing resources. See https://github.com/ahurford/quantitative-training-resources/blob/master/Computer%20policies.md
