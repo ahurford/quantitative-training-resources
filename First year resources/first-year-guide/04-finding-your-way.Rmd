@@ -1,5 +1,5 @@
 # Finding your way around RStudio
-Amy added this text
+ 
 
 R studio has 4 windows (also known as "panes") that are inter-linked. The default layout is shown in Figure 5.1. You can mover the layout of the panes and change their size and shape by clicking and dragging with your mouse along the window pane borders. The details of what happens in each pane are detailed below.
 
