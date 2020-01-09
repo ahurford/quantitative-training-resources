@@ -1,7 +1,6 @@
 --- 
-title: "Quantitative skills"
-subtitle: "for first year biology"
-author: "Amy Hurford"
+title: "Quantitative skills for biology"
+author: "Yolanda Wiersma, Amy Hurford, Joany Marino"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -9,8 +8,8 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: https://github.com/ahurford/quantitative-training-resources/tree/master/first-year-guide
-description: "Quantitative skills for first year biology"
+github-repo: 
+description: "Quantitative skills for biology"
 ---
 
 # Introduction
