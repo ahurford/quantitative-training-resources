@@ -1,3 +1,12 @@
+Current work as of Jan 9, 2020
+
+Joany - Look at the first-year-guide, particularly 04-finding-your-way.Rmd and 1) fixup the code to load in the figure, which isn't working and 2) where sections and figures are referenced in the text, add labels so this can be automated.
+
+Yolanda - On Thursday mornings is editing the first-year-guide in bookdown. Next will be uploading data into R and getting help.
+
+Amy - work on providing clearer guidelines on what we are doing in this Github and the private one, and better organize the files.
+
+----------
 Quant Work Plan (based on Dec. 17, 2019 meeting)
 
 To do’s: 
