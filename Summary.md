@@ -69,7 +69,7 @@ Some recommendations for learning outcomes are (need to revise https://github.co
 1. ggplot and RStudio. Personally, I don't use ggplot, but https://stat545.com/index.html makes a compelling argument for it and all the software/data carpentries and other prepackaged materials are in ggplot and dplyr.
 
 ## Continuity
-With the BIOL 1001/1002 lab manuals now available as ebooks (and publically available), instructors in upper level courses and STAT 2550 should be knowledgeable of what is taught in first year and be knowledgable as to if what they are recommending conflicts. 
+With the quant training manual avialable as an ebook (and publically available), instructors in upper level courses and STAT 2550 should be knowledgeable of what is taught in first year and be knowledgable as to if what they are recommending conflicts. 
 
 ## STAT 2550
 
