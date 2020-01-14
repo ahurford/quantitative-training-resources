@@ -19,45 +19,7 @@ Existing lab manuals will be retained in their current hardcopy form, but will b
 Biology 1001 and 1002 lectures seems tightly focused around Campbell Biology, and as such, there is limited opportunity to deviate from the textbook. This was the feedback given from Sally, Piotr, and Margaret. We note that there are nice quantiative exercises contained within Campbell Biology.
 
 ## BIOL 1001/1002 Labs
-### Revise lab manual text to give an updated description of what biologists do
-The lab manual needs to be edited to communicate current practices for researchers. Particularly, in Appendix II, beginning on p118, comments around 'The Scientific Method', 'How Researchers communicate their findings', and 'Graphs and Tables' need to be revised. In addition, the roles of statistics in biology and modelling as an approach to doing science needs to be communicated. The role of traditional ecological knowledge and non-western approaches should be mentioned. Basic terminology around statistics and data science should be introduced.
 
-### Tables
-Data archiving standards for professional biologists have now moved beyond writing results in a notebook, and we need to give the students exposure to these expectations. These expectations should be a streamlined version of Week 1 https://datacarpentry.org/semester-biology/schedule/ and Emilie and Danielle may also have relevant materials. Specifically, Q.2 of the assignment for week 1 https://datacarpentry.org/semester-biology/assignments/sql-data/ reflects similar expectations as to what we should have for first year biology. We might also discuss what is metadata and Ecological Metadata Language (https://joss.theoj.org/papers/10.21105/joss.01276). 
-
-### Data archiving (not sure if this should be implemented for F2020)
-We may ask first year students to electronically submit their data to a github/gitlab repository. We would require the students to consent to having their data be publically availabile and anonymize. This would also require that the students create a free github/gitlab account, which may be problematic for the university.  We would need to provide training/documentation for lab instructors and TAs on github, both for help the students to submit their data, but also on merging the pull requests from the submitted data.
-
-### Graphs
-Similarly, professional biologists have moved beyond making graphs using pencil and paper. Perhaps we could accept graphs made in a variety of softwares, while also have developed resources for R, RStudio, and ggplot, so this is an option. Again, this should be a streamlined version of Week 5 from https://datacarpentry.org/semester-biology/schedule/, but may require some time as plotting requires some preliminary comments on built-in functions, loading packages, getting help, common errors, reading in data, etc. Expectations around figure captions in the biology lab manual could be revised. 
-
-### Statistics
-_AH: These are some very specific suggestions that we need to integrate into https://github.com/ahurford/quantitative-training-resources/blob/master/Documents%20in%20progress/Draft%20Quantitative%20Learning%20Goals.pdf and eventually remove from here_
-
-Having not yet required STAT 2550, BIOL 1001/1002 is not the place to start in on statistics, but it is the place to better prepare students for (1) the importance of statistics in biology; and (2) key concepts in statistics.
-
-(1) will be addressed by revisions to the lab manual.
-
-Regarding (2), (and these recommendations are made primarily from my conversations with Dave Schneider):
-
-1. Currently, first year students are taught to write a hypothesis and a prediction. We need to add: sketch a graph of the results if your hypothesis was supported; draw a graph if your hypothesis is not supported; and write the equations that correspond to each of your graphs. To teach this we need to say, 'if you think _y_ increases with _x_, but you're not quite sure exactly how, the default assumption, given that _x_ is a continous variable, is that there is a linear relationship, _y=mx+c_. In writing the equations, students get to choose their notation. This is powerful, because biology involves a lot of non-conventional notation, for example, dN/dt = r N (exponential growth), if dN/dt is plotted on the y-axis, and N is plotted on the x-axis, is a straight line with a zero y-intercept and a slope of r, but the notation is a barrier because it isn't in the form _y = mx_.
-
-2. We need to expect that some indication of spread is reported, i.e. error bars on bar plots where the error bars represent the range (i.e. from the min to the max observation) and the figure caption is required to specify what the error bars show.
-
-### Add/Remove/Revise 1001/1002 labs
-
-BIOL 1001
----------
-
-'Laboratory 1 - Observational skills and Introduction to Labs (Install R, RStudio, make Github account). +0.5 hrs.
-
-'Laboratory X' - Quantitative skills I. 2 hrs. We will take some data from the Campbell biology textbook quant exercises and get the students to practice entering the data and graphing it. Also, writing hypotheses as equations.
-
-'Laboratory 3 - Diffusion and Osmosis' (currently, hypothesis, table, required). Add hypothesis as an equation, e-graph and url to e-data submission in written report. +0.5hrs
-
-'Laboratory 7 - Photosynthesis' (currently, hypothesis, table, graph required) +0.5hr. As for Laboratory 3. +0.5 hrs.
-
-One existing lab to be removed.
 
 BIOL 1002
 ---------
