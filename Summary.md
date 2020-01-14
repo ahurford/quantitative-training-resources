@@ -8,7 +8,7 @@ The revision of the biology curiculuum with respect to quantitative training sho
 1. Quantitative literacy. Students should be comfortable reading and evaluating papers with quantitaitve methods appropriate to their steam/specialization (for example, statistical analyses, mathematical models, large data sets, graphs, computer code). Skills could include those listed in Table 2 of Hampton et al. 2017.
 2. Develop students' confidence in handling and interpreting data. At minimmum, upon completing our BSc program (or potentially only specific streams of our program), if a student were given data and some context, the student can apply their biological knowledge to form a hypothesis, and make some progress on assessing whether the data support their hypothesis using statistics and/or data visualization.
 
-See document: "Draft quantiative learning goals" for detailed learning goals and objectives at each level (document in progress): https://github.com/ahurford/quantitative-training-resources/blob/master/Documents%20in%20progress/Draft%20Quantitative%20Learning%20Goals.pdf. In addition, I emailed Carissa Brown to request a copy of geography's quantitative training document at the request of Eric Vanderwal, but have not received a reply.
+See document: "Draft quantiative learning goals" for detailed learning goals and objectives at each level (document in progress - currently not super readable): https://github.com/ahurford/quantitative-training-resources/blob/master/Documents%20in%20progress/Draft%20Quantitative%20Learning%20Goals.pdf. In addition, I emailed Carissa Brown to request a copy of geography's quantitative training document at the request of Eric Vanderwal, but have not received a reply. Competency E1 on p22 of Scientific Foundations for Future Physicians (https://store.aamc.org/scientific-foundations-for-future-physicians-pdf.html) has some good comments.
 
 ### Publically available as an ebook
 A Quantitative training in biology manual will be developed and available as an online resource that is publically available and hosted on Gitlab. Courses can provide the link to the ebook on brightspace. It is essential that the quant materials are available digitially so that we can link to existing online resources such as the carpentaries, ebooks, and where to download software (i.e., R/RStudio).
@@ -18,11 +18,11 @@ Existing lab manuals will be retained in their current hardcopy form, but will b
 ## BIOL 1001/1002
 Biology 1001 and 1002 lectures seems tightly focused around Campbell Biology, and as such, there is limited opportunity to deviate from the textbook. This was the feedback given from Sally, Piotr, and Margaret. We note that there are nice quantiative exercises contained within Campbell Biology.
 
-## BIOL 1001/1002 Labs
+## BIOL 1001
+Changes to BIOL 1001 are targetted for Fall 2020, specific materials being developed will be in the Labs folder, and the quant-training-guide.
 
-
-BIOL 1002
----------
+## BIOL 1002
+The new requirements for 1001 will be continued into 1002 for implementation in Winter 2021. Specific labs with quantitative components are:
 
 'Laboratory 2 - Transpiration' (currently hypothesis, table, graph required)
 
@@ -47,7 +47,7 @@ The idea to propose a basic R programming and quantitative literacy course for b
 
 - 2000- is the appropriate level for such a course, and the course it needed, but currently the second year course requirements for the biology major are very heavy, and so it is not possible to add this course (or any course) without a broader discussion of our curiculuum.
 
-Having shelfed this idea, currently we plan to develop labs for second year to develop related skills. It should be noted that we are having to work within a constrained space (limited instructor availability and a heavy load of required courses) and these constraints reduce our ability effect change in the area of quantitative training. In addition, if we are to work within the scope of existing courses, there needs to be support from leadership in the department, both in terms of identifying quantitative training as a priority for our department (so that individual instructors know to support the quantitative training initiative), and providing the resources to effect change (i.e., currently we have a TA to help us with this for 3 semesters, and this TA is the main avenue through which we can affect change).
+Having shelfed this idea, currently we plan to develop labs for second year to develop related skills. This will begin once the materials for 1001 and 1002 have been completed. At least one quantitative lab should be introduced into second year courses. This would be at least 5 labs, and the work would be at least equivalent to 1/2 a teaching credit. We should consider how we can enable a faculty member to have the time to develop these labs. In addition, if we are to work within the scope of existing courses, there needs to be support from leadership in the department, both in terms of identifying quantitative training as a priority for our department (so that individual instructors know to support the quantitative training initiative).
 
 ## Recommendations for BIOL 2000-level courses and beyond
 We will maintain resources and guidelines to help with quantitative content in 2000- and above courses. Resources could include ready-made activities and exercises for use in lecture and/or lab, as well as training/workshops for faculty and lab instructors/TAs. 
@@ -68,12 +68,12 @@ Some recommendations for learning outcomes are (need to revise https://github.co
 
 1. ggplot and RStudio. Personally, I don't use ggplot, but https://stat545.com/index.html makes a compelling argument for it and all the software/data carpentries and other prepackaged materials are in ggplot and dplyr.
 
-## Recommendations for each year
-With the BIOL 1001/1002 lab manuals now available as ebooks (and publically available), instructors in upper level courses should be knowledgeable of what is taught in first year and be knowledgable as to if what they are recommending conflicts. We should set specific goals for expectations at the end of second, third and fourth years. Competency E1 on p22 of Scientific Foundations for Future Physicians (https://store.aamc.org/scientific-foundations-for-future-physicians-pdf.html) has some good comments.
+## Continuity
+With the BIOL 1001/1002 lab manuals now available as ebooks (and publically available), instructors in upper level courses and STAT 2550 should be knowledgeable of what is taught in first year and be knowledgable as to if what they are recommending conflicts. 
 
 ## STAT 2550
 
-Hampton et al. (https://academic.oup.com/bioscience/article/67/6/546/3784601) states that "we recommend a computational approach to statistics training". Therefore, we need to consult with the Statistics department to determine if STAT 2550 is meeting our needs and to facilitate better integration STAT 2550 and our program. At BUGS, there was support for replacing STAT 2550 with an in-house version, but this would present staffing challenges. It was noted that psychology does not require STAT 2550 and instead teaches their own course. Might we consider requiring that pyschology course instead of STAT 2550?
+Hampton et al. (https://academic.oup.com/bioscience/article/67/6/546/3784601) states that "we recommend a computational approach to statistics training". Therefore, we need to consult with the Statistics department to determine if STAT 2550 is meeting our needs and to facilitate better integration STAT 2550 and our program. At BUGS, there was support for replacing STAT 2550 with an in-house version, but this would present staffing challenges. It was noted that psychology does not require STAT 2550 and instead teaches their own course. Might we consider requiring that pyschology course instead of STAT 2550 if we truly want to bring STAT 2550 in house?
 
 It is also important to touch on 1) the statement from that ASA about alpha = 0.05; and 2) data visualization as discussed here (https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128).
 
@@ -81,7 +81,7 @@ It is also important to touch on 1) the statement from that ASA about alpha = 0.
 This course from UBC seems very good: https://stat545.com/index.html. Amy has also archieved all of Dave Schneiders BIOL 4605 materials from Fall 2019.
 
 ## The curriculuum
-To introduce a new second year course that is required we will need to elimate at least one required second year course. However, we need to reduce our required courseload further than this, and, ideally, to the extent that double majors with geogaraphy, math, stats, and computer science could be possible. This was a topic of discussion at BUGS. The current required courses are (see https://www.mun.ca/regoff/calendar/sectionNo=SCI-0736):
+The current required courses are (see https://www.mun.ca/regoff/calendar/sectionNo=SCI-0736):
 
 BIOC 2201 Intro to Biochemistry
 
@@ -136,9 +136,6 @@ I choose three other Canadian universities for a quick comparison:
 - Simon Fraser BSc in Biology: appears to have a similar load of required courses as compared to us  http://www.sfu.ca/students/calendar/2020/spring/programs/biological-sciences/major/bachelor-of-science.html
 
 - University of Alberta: Difficult to compare as Cell and Molecular Biology appears to be separated from Ecology, Evolution and Environmental Scinece.
-
-## Making resources publically available
-A key aspect of making progress is continuity across courses within the major including STAT 2550 (Vision and Change can be cited regarding the importance of this point). What we are teaching about 'how to make a graph in R' in first or second year needs to flow up to third and fourth year. To this extent, we need to maintain public (github/gitlab) and private (brightspace) repositories of our teaching materials.
 
 ## Computing and software requirements
 We should develop a policy on our expectations (i.e., are undergrads expected to have access to a personal computer, and if so, what minimum specs) and quantify demand for departmental computing resources. See https://github.com/ahurford/quantitative-training-resources/blob/master/Computer%20policies.md
