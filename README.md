@@ -1,6 +1,6 @@
 # Overview of files
 
-## To do.md
+## To do List.md
 This file contains instructions of who is currently doing what.
 
 ## Quantitative training guides
