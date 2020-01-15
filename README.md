@@ -17,5 +17,5 @@ This folder contains resources in development to be added to labs
 ## Summary.md
 This is a summary of discussions related to quantitative training cataloguing ideas that have been considered and rejected.
 
-All other files are perhaps self explanatory.
+All other files are perhaps self explanatory based on the naming.
 
