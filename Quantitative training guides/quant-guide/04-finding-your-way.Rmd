@@ -4,7 +4,7 @@
 R studio has 4 windows (also known as "panes") that are inter-linked. The default layout is shown in Figure 5.1. You can mover the layout of the panes and change their size and shape by clicking and dragging with your mouse along the window pane borders. The details of what happens in each pane are detailed below.
 
 ```{r fig.align='center', echo=FALSE, message=FALSE, out.width="65%"}
-knitr::include_graphics("./figures/Fig5.1")
+knitr::include_graphics("./figures/Fig5.1.jpg")
 ```
 
 ## Source pane
@@ -53,5 +53,5 @@ This tab shows a list of all the R packages installed on your computer (see chap
 
 ### Help tab
 
-This lets you get help with R functions. Type the name of the function in the search window (blank bar with the magnifying glass beside it)
+This lets you get help with R functions. Type the name of the function in the search window (blank bar with the magnifying glass beside it). See chapter 9 "Getting R help" for more details.
 
