@@ -1,6 +1,6 @@
 Current work as of Jan 9, 2020:
 
-Joany - Look at the quant-guide, particularly 04-finding-your-way.Rmd and 1) fixup the code to load in the figure, which isn't working and 2) where sections and figures are referenced in the text, add labels so this can be automated. Then, start working on a section in the quant guide regarding how to save data as a .csv, i.e., based on what is written under Tables here https://github.com/ahurford/quantitative-training-resources/blob/master/Labs/1001/1001.md.
+Joany - Start working on a section in the quant guide regarding how to save data as a .csv, i.e., based on what is written under Tables here https://github.com/ahurford/quantitative-training-resources/blob/master/Labs/1001/1001.md.
 
 Yolanda - On Thursday mornings is editing the first-year-guide in bookdown. Next will be uploading data into R and getting help.
 
@@ -11,7 +11,7 @@ Amy - work on providing clearer guidelines on what we are doing in this Github a
 ----------
 Quant Work Plan (based on Dec. 17, 2019 meeting)
 
-To do’s: 
+To do’s:
 
 -	Produce video “orientation to R”. Also make accomponying text materials (Joany)
 -	Develop code/lab materials to go with osmosis lab (BIOL 1001 - Joany)
