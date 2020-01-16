@@ -1,19 +1,19 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html lang="" xml:lang="">
 <head>
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Chapter 10 Getting R help | Quantitative skills for biology</title>
   <meta name="description" content="Chapter 10 Getting R help | Quantitative skills for biology" />
-  <meta name="generator" content="bookdown 0.14 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.17 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Chapter 10 Getting R help | Quantitative skills for biology" />
   <meta property="og:type" content="book" />
   
   
   <meta property="og:description" content="Chapter 10 Getting R help | Quantitative skills for biology" />
-  
+  <meta name="github-repo" content="ahurford/quantitative-training-resources/tree/master/Quantitative training guides/quant-guide" />
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="Chapter 10 Getting R help | Quantitative skills for biology" />
@@ -21,7 +21,7 @@
   <meta name="twitter:description" content="Chapter 10 Getting R help | Quantitative skills for biology" />
   
 
-<meta name="author" content="Yolanda Wiersma, Amy Hurford, Joany Marino" />
+<meta name="author" content="Yolanda Wiersma, Amy Hurford, Joany Mariño" />
 
 
 <meta name="date" content="2020-01-16" />
@@ -93,7 +93,7 @@
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="7" data-path="installing-a-package.html"><a href="installing-a-package.html"><i class="fa fa-check"></i><b>7</b> Installing a package</a></li>
-<li class="chapter" data-level="8" data-path="a-simple-approach-for-loading-data-into-rstudio.html"><a href="a-simple-approach-for-loading-data-into-rstudio.html"><i class="fa fa-check"></i><b>8</b> A simple approach for loading data into RStudio</a></li>
+<li class="chapter" data-level="8" data-path="load-data.html"><a href="load-data.html"><i class="fa fa-check"></i><b>8</b> A simple approach for loading data into RStudio</a></li>
 <li class="chapter" data-level="9" data-path="making-a-graph-with-ggplot-in-rstudio.html"><a href="making-a-graph-with-ggplot-in-rstudio.html"><i class="fa fa-check"></i><b>9</b> Making a graph with ggplot in RStudio</a></li>
 <li class="chapter" data-level="10" data-path="getting-r-help.html"><a href="getting-r-help.html"><i class="fa fa-check"></i><b>10</b> Getting R help</a><ul>
 <li class="chapter" data-level="10.1" data-path="getting-r-help.html"><a href="getting-r-help.html#using-r-help"><i class="fa fa-check"></i><b>10.1</b> Using R help</a></li>
@@ -150,7 +150,7 @@
 <p>Note that you often do not have to input ALL the arguments. If you are happy with the defaults you don’t have to type in the code. For example, the description of the argument “alternative” tells you that you can specify whether the alternative hypothesis is two-sided (i.e., two-tailed), or one-tailed, in which case you have to say whether the alternative hypothesis is that the second set of data (e.g., the treatment) are greater or less than the first (e.g., the control). The default is that you are assuming the alternative hypothesis is two-sided. If this is what you want, then your code only needs to look like this</p>
 <p><code>t.test(x, y)</code></p>
 <p>However, if you want a one-sided test, and your alternate hypothesis is that the treatment (y) is greater than the control (x), then you need to type a bit more code, like this:</p>
-<p><code>t.test(x, y, alternative = c("greater"))</code></p>
+<p><code>t.test(x, y, alternative = c(&quot;greater&quot;))</code></p>
 <ol start="6" style="list-style-type: decimal">
 <li><p><strong>Details</strong> This sectin gives you a little more detail (written a bit more like a stats text) about what the function is doing. For more advanced functions, there may be details on the types of inputs allowed and other caveats. <em>This section is really helpful to read closely!</em></p></li>
 <li><p><strong>Value</strong> This section lists the objects (output) created when you execute the command. The relevance of this list will become more clear once you start using R.</p></li>
@@ -189,12 +189,11 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
-"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -206,6 +205,10 @@ gitbook.start({
 "text": "Edit"
 },
 "history": {
+"link": null,
+"text": null
+},
+"view": {
 "link": null,
 "text": null
 },

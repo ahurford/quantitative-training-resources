@@ -4,21 +4,21 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 6 Finding your way around RStudio | Quantitative skills for biology</title>
-  <meta name="description" content="Chapter 6 Finding your way around RStudio | Quantitative skills for biology" />
+  <title>Chapter 10 Getting R help | Quantitative skills for biology</title>
+  <meta name="description" content="Chapter 10 Getting R help | Quantitative skills for biology" />
   <meta name="generator" content="bookdown 0.17 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 6 Finding your way around RStudio | Quantitative skills for biology" />
+  <meta property="og:title" content="Chapter 10 Getting R help | Quantitative skills for biology" />
   <meta property="og:type" content="book" />
   
   
-  <meta property="og:description" content="Chapter 6 Finding your way around RStudio | Quantitative skills for biology" />
+  <meta property="og:description" content="Chapter 10 Getting R help | Quantitative skills for biology" />
   <meta name="github-repo" content="ahurford/quantitative-training-resources/tree/master/Quantitative training guides/quant-guide" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 6 Finding your way around RStudio | Quantitative skills for biology" />
+  <meta name="twitter:title" content="Chapter 10 Getting R help | Quantitative skills for biology" />
   
-  <meta name="twitter:description" content="Chapter 6 Finding your way around RStudio | Quantitative skills for biology" />
+  <meta name="twitter:description" content="Chapter 10 Getting R help | Quantitative skills for biology" />
   
 
 <meta name="author" content="Yolanda Wiersma, Amy Hurford, Joany Mariño" />
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="how-to-install-r-and-r-studio.html"/>
-<link rel="next" href="installing-a-package.html"/>
+<link rel="prev" href="making-a-graph-with-ggplot-in-rstudio.html"/>
+<link rel="next" href="references.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -122,61 +122,46 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="finding-your-way-around-rstudio" class="section level1">
-<h1><span class="header-section-number">Chapter 6</span> Finding your way around RStudio</h1>
-<p>R studio has 4 windows (also known as “panes”) that are inter-linked. The default layout is shown in Figure <a href="finding-your-way-around-rstudio.html#fig:panes">6.1</a>. You can move the layout of the panes and change their size and shape by clicking and dragging with your mouse along the window pane borders. The details of what happens in each pane are detailed below.</p>
-<div class="figure" style="text-align: center"><span id="fig:panes"></span>
-<img src="figures/Fig5.1.jpg" alt="Panes in RStudio." width="70%" />
-<p class="caption">
-Figure 6.1: Panes in RStudio.
-</p>
+<div id="help" class="section level1">
+<h1><span class="header-section-number">Chapter 10</span> Getting R help</h1>
+<p>The first place most people go for R help is the “Help” tabe in the “Files/Plots/Packages/Help” pane on thue console (described in Chapter 4). Here you can do a search by topic/term using the search window at the top right. You can also click the “house” icon to go to the home menu for the help files and use the table of contents there to navigate to what you are looking for.</p>
+<div id="using-r-help" class="section level2">
+<h2><span class="header-section-number">10.1</span> Using R help</h2>
+<p>The hardest part about R help files is that at first they don’t seem that helpful, and to new R users, they seem to be written in code. However, all of the help pages are structured the same way, so once you learn how to de-code them, you’ll be well on your way. Below is an example of how to interpret R help files</p>
 </div>
-<div id="source-pane" class="section level2">
-<h2><span class="header-section-number">6.1</span> Source pane</h2>
-<p>This is where you create and edit R scripts. R scripts are just text files with a “.R” extension at the end of the filename. When you’ve written and saved a script, you can re-use it for future projects. So, before you start typing here, you should save the file under a new name.</p>
+<div id="r-cheatsheets" class="section level2">
+<h2><span class="header-section-number">10.2</span> R “Cheatsheets”</h2>
+<p>Because R is open source software, there is also a culture of open access help. Several R programmers have made helpful “cheatSheets” that are worth printing off and hanging by your desk. Try <a href="https://cran.r-project.org/doc/contrib/Short-refcard.pdf">this one</a> by Tom Short for starters.</p>
 </div>
-<div id="console-pane" class="section level2">
-<h2><span class="header-section-number">6.2</span> Console pane</h2>
-<p>On the surface, this looks a lot like the source pane, since it’s where you can also type code. However, it differs because there is a prompt (the “&gt;” symbol) and here the code is actually evaluated.</p>
-<ul>
-<li>TRY IT! type 5 + 5 in the console at the prompt and press “enter”. You’ll see the R gives the correct output (10).</li>
-</ul>
-<p><strong>TIP</strong> you should try to type code in the source pane, so it gets saved. You can test it by clicking the “Run” button on the top of the source pane.</p>
-<p><strong>TIP</strong> use the console to test code/debug, or do a quick analysis. If you want to see a previous line of code you types, press the up arrow to scorss through past comments, from most to least recent.</p>
+<div id="r-books" class="section level2">
+<h2><span class="header-section-number">10.3</span> R books</h2>
+<p>As with the cheatsheets, there are open access books out there (as well as expensive ones to buy). For beginners, “The Pirates Gude to R” by Nathaniel D. Phillips is <strong>HIGHLY</strong> recommended. You can access it <a href="https://bookdown.org/ndphillips/YaRrr/">here</a></p>
 </div>
-<div id="enviornmenthistory-pane" class="section level2">
-<h2><span class="header-section-number">6.3</span> Enviornment/History pane</h2>
-<p>This pane has several tabs, we’ll discuss each in turn.</p>
-<div id="environment-tab" class="section level3">
-<h3><span class="header-section-number">6.3.1</span> Environment tab</h3>
-<p>This shows you the names of all data objects (e.g., vectors, matrices, dataframes) that you’ve defined in the current R session, along with information about the size of data objects.</p>
-<p>There are also clickable actions, like “Import data set”, which we’ll refer to later.</p>
-</div>
-<div id="history-tab" class="section level3">
-<h3><span class="header-section-number">6.3.2</span> History tab</h3>
-<p>This shows you a history of all the code you’ve previously run in the console.</p>
-</div>
-</div>
-<div id="fileplotspackageshelp-pane" class="section level2">
-<h2><span class="header-section-number">6.4</span> File/Plots/Packages/Help pane</h2>
-<p>This pane also has a few tabs</p>
-<div id="files-tab" class="section level3">
-<h3><span class="header-section-number">6.4.1</span> Files tab</h3>
-<p>This tab gives you access to the file directory on your own computer. It’s a useful spot to set your working directory (see Chapter <a href="load-data.html#load-data">8</a>).</p>
-</div>
-<div id="plots-tab" class="section level3">
-<h3><span class="header-section-number">6.4.2</span> Plots tab</h3>
-<p>This tab lets you see all the plots (graphs) that you create. You can also uset the buttons at the top to zoom, and to export the graph as a PDF or jpeg file.</p>
-</div>
-<div id="packages-tab" class="section level3">
-<h3><span class="header-section-number">6.4.3</span> Packages tab</h3>
-<p>This tab shows a list of all the R packages installed on your computer (see chapter 5 for more on installing packages). It also indicates which are loaded with a check mark.</p>
-</div>
-<div id="help-tab" class="section level3">
-<h3><span class="header-section-number">6.4.4</span> Help tab</h3>
-<p>This lets you get help with R functions. Type the name of the function in the search window (blank bar with the magnifying glass beside it). See Chapter <a href="help.html#help">10</a> “Getting R help” for more details.</p>
+<div id="how-to-interpret-r-help-files" class="section level2">
+<h2><span class="header-section-number">10.4</span> How to interpret R help files</h2>
+<p>R documentation follows the following format. As an example, we’ll use the screenshot below for a really simple statistical command (the t-test) to walk you through the R documentation. Numbers below correspond to the labels on the screenshot.</p>
+<ol style="list-style-type: decimal">
+<li><p><strong>header</strong> This simply gives the command for the thing you are trying to do, in R language</p></li>
+<li><p><strong>Title</strong> This is a title of the function/command/tool in more plain language</p></li>
+<li><p><strong>Description</strong> This section provides a short description of what the command does, written in reaonably plain language</p></li>
+<li><p><strong>Usage</strong> This is where you see an example of R code that you use to execute the command (<strong>TIP</strong> you can tell what text in the help file is R code and what is other information by the font. Example code is in Courier font). Any example prefaced teh two hashtags (“##”) is a comment that adds additonal descitpion or provides different options for the comment. For example, for the t-test here, the first exampe is for the default method, where you are doing a t-test for a difference between two numeric vectors of data values (“x” and “y”). The second example is where you are applying the t-test to a formula instead of two numeric vectors. Until you start doing more advanced statistics, the default method will usually be what you use.</p></li>
+<li><p><strong>Arguments</strong> This section breaks down every element in the R code under “Usage” above it and describes what the input is that you need to provide. It also gives you details about the options as well as what the defaults are. For example, for the t-test documentation here, it tells you that “x” is “a (non-empty) numeric vector of data values”. It also tells you that this is what “y” is but not that it tells you that “y” is optional (i.e., you can do a t-test on just one vector of data values). This fact is also shown in the example code where it says “y = NULL”).</p></li>
+</ol>
+<p>Note that you often do not have to input ALL the arguments. If you are happy with the defaults you don’t have to type in the code. For example, the description of the argument “alternative” tells you that you can specify whether the alternative hypothesis is two-sided (i.e., two-tailed), or one-tailed, in which case you have to say whether the alternative hypothesis is that the second set of data (e.g., the treatment) are greater or less than the first (e.g., the control). The default is that you are assuming the alternative hypothesis is two-sided. If this is what you want, then your code only needs to look like this</p>
+<p><code>t.test(x, y)</code></p>
+<p>However, if you want a one-sided test, and your alternate hypothesis is that the treatment (y) is greater than the control (x), then you need to type a bit more code, like this:</p>
+<p><code>t.test(x, y, alternative = c(&quot;greater&quot;))</code></p>
+<ol start="6" style="list-style-type: decimal">
+<li><p><strong>Details</strong> This sectin gives you a little more detail (written a bit more like a stats text) about what the function is doing. For more advanced functions, there may be details on the types of inputs allowed and other caveats. <em>This section is really helpful to read closely!</em></p></li>
+<li><p><strong>Value</strong> This section lists the objects (output) created when you execute the command. The relevance of this list will become more clear once you start using R.</p></li>
+<li><p><strong>See Also</strong> This section is usually just links to similar commands to the one you are reading up on, or related to it somewhow. These can be useful to explore when doing more complex statistical tests, or if you are not sure which test you should be using. Clicking the link will just take you to the Documentation page for that command, which will be set up exactly the same way as this one.</p></li>
+</ol>
+<p>9 <strong>Examples</strong> This gives sample code and output. If you have installed the necessary package(s) to run this code, you can just try the code out yourself by typing the code <em>exactly</em> as shown in the example in the Console window of RStudio. It will call data that comes built in with the package when you installed it and can be a helpful way for you to understand how the command is working before you try it with your own data.</p>
+<p><img src="figures/HelpDoc_partA.jpg" width="95%" style="display: block; margin: auto;" /></p>
+<p><img src="figures/HelpDoc_partB.jpg" width="95%" style="display: block; margin: auto;" /></p>
 
-</div>
+
+
 </div>
 </div>
             </section>
@@ -184,8 +169,8 @@ Figure 6.1: Panes in RStudio.
           </div>
         </div>
       </div>
-<a href="how-to-install-r-and-r-studio.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="installing-a-package.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="making-a-graph-with-ggplot-in-rstudio.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="references.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -216,7 +201,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/rstudio/bookdown-demo/edit/master/04-finding-your-way.Rmd",
+"link": "https://github.com/rstudio/bookdown-demo/edit/master/08-getting-R-help.Rmd",
 "text": "Edit"
 },
 "history": {
