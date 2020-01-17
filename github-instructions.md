@@ -53,3 +53,7 @@ Alternatively, if the file is .md or .txt you might click the `pencil` icon, the
 4. Submit a `pull` request.
 
 If you are having trouble, see the _How to contribute_ section.
+
+## Notes
+Had a problem with Github Desktop for Yolanda saying no permission to push. Was fixed by following these instructions: https://sqa.stackexchange.com/questions/37528/github-desktopauthentication-failed-you-may-not-have-permission-to-access-the-r
+It's not really clear why this resolved. Perhaps the solultion is to log out and back into Github.
