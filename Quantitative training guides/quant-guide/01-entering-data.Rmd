@@ -1,5 +1,61 @@
 # Entering data
 
+Good data organization is the foundation of any research project, 
+and this begins with entering and archiving data. 
+There are several reasonable options for data entry, for example:
 
+1. Spreadsheet
+2. Text file
+3. Database
+4. Form (web or GUI databases). 
 
+In R, you can also input data directly, which can be the right choice if you are working with a small dataset. 
+Here, you will learn how to enter the data from your experiments
+and save them using R. 
 
+Let's start by
+making table 1 for your report, which we will call 
+`solution-concentration-effect-on-potato.csv`:
+
+```{r}
+table1 <- data.frame(weight = c("initial", "final", "difference", "percent-change"), 
+                     NaCl-0-percent = c(, , ,), 
+                     NaCl-0.9-percent = c(, , ,), 
+                     NaCl-2-percent = c(, , ,), 
+                     NaCl-5-percent = c(, , ,), 
+write.csv(x = table1, file = "solution-concentration-effect-on-potato.csv", row.names = FALSE)
+```
+
+Notice that we used the file extension ".csv".  
+CSV stands for comma-separated values, which is a format for 
+tabular data stored in a text file where a comma separates the columns of the data. 
+That is why a comma separates each of the values in the rows for the different solutions. 
+
+Keep in mind that the values entered into the tables should be 
+decimals greater than or equal to zero, and likely less than
+100 since you measured mass in grams and the potato
+cubes for the experiments were 8cm^3 in size. 
+
+Now, we will make table 2, which includes the class averages and we will call 
+`solution-concentration-effect-on-potato-averages.csv`:
+
+```{r}
+table2 <- data.frame(weight = c("percent-change", "minimum-value", "maximum-value", "difference"), 
+                     NaCl-0-percent = c(, , ,), 
+                     NaCl-0.9-percent = c(, , ,), 
+                     NaCl-2-percent = c(, , ,), 
+                     NaCl-5-percent = c(, , ,), 
+write.csv(x = table1, file = "solution-concentration-effect-on-potato-averages.csv", row.names = FALSE)
+```
+
+We can load our tables into R the following way:
+
+```{r}
+table1 <- read.csv(file = "solution-concentration-effect-on-potato.csv")
+table2 <- read.csv(file = "solution-concentration-effect-on-potato-averages.csv")
+table1
+table2
+```
+
+Here, we used the function `read.csv` for reading in our data files
+in CSV format.
