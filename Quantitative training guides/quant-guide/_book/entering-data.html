@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="" xml:lang="">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Chapter 2 Entering data | Quantitative skills for biology</title>
   <meta name="description" content="Chapter 2 Entering data | Quantitative skills for biology" />
-  <meta name="generator" content="bookdown 0.17 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.16 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Chapter 2 Entering data | Quantitative skills for biology" />
   <meta property="og:type" content="book" />
@@ -24,7 +24,7 @@
 <meta name="author" content="Yolanda Wiersma, Amy Hurford, Joany Mariño" />
 
 
-<meta name="date" content="2020-01-16" />
+<meta name="date" content="2020-01-30" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -124,6 +124,54 @@
             <section class="normal" id="section-">
 <div id="entering-data" class="section level1">
 <h1><span class="header-section-number">Chapter 2</span> Entering data</h1>
+<p>Good data organization is the foundation of any research project, and this begins with entering and archiving data. There are several reasonable options for data entry, for example:</p>
+<ol style="list-style-type: decimal">
+<li>Spreadsheet</li>
+<li>Text file</li>
+<li>Database</li>
+<li>Form (web or GUI databases).</li>
+</ol>
+<p>In R, you can also input data directly, which can be the right choice if you are working with a small dataset. Here, you will learn how to enter the data from your experiments and save them using R.</p>
+<p>Let’s start by making table 1 for your report, which we will call <code>solution-concentration-effect-on-potato.csv</code>:</p>
+<!--  Joany I had to comment this out as it was giving an error:
+Quitting from lines 43-49 (quant-guide.Rmd) 
+Error in parse(text = x, srcfile = src) : <text>:2:37: unexpected '='
+1: table1 <- data.frame(weight = c("initial", "final", "difference", "percent-change"), 
+2:                      NaCl-0-percent =
+                                       ^
+Calls: <Anonymous> ... <Anonymous> -> parse_all -> parse_all.character -> parse
+Execution halted
+
+Exited with status 1.
+
+-----
+I also had to delete the ```{r} and ``` parts to get the bookdown to compile
+
+table1 <- data.frame(weight = c("initial", "final", "difference", "percent-change"), 
+                     NaCl-0-percent = c(, , ,), 
+                     NaCl-0.9-percent = c(, , ,), 
+                     NaCl-2-percent = c(, , ,), 
+                     NaCl-5-percent = c(, , ,), 
+write.csv(x = table1, file = "solution-concentration-effect-on-potato.csv", row.names = FALSE)
+-->
+<p>Notice that we used the file extension “.csv”.<br />
+CSV stands for comma-separated values, which is a format for tabular data stored in a text file where a comma separates the columns of the data. That is why a comma separates each of the values in the rows for the different solutions.</p>
+<p>Keep in mind that the values entered into the tables should be decimals greater than or equal to zero, and likely less than 100 since you measured mass in grams and the potato cubes for the experiments were 8cm^3 in size.</p>
+<p>Now, we will make table 2, which includes the class averages and we will call <code>solution-concentration-effect-on-potato-averages.csv</code>: <!--
+table2 <- data.frame(weight = c("percent-change", "minimum-value", "maximum-value", "difference"), 
+                     NaCl-0-percent = c(, , ,), 
+                     NaCl-0.9-percent = c(, , ,), 
+                     NaCl-2-percent = c(, , ,), 
+                     NaCl-5-percent = c(, , ,), 
+write.csv(x = table1, file = "solution-concentration-effect-on-potato-averages.csv", row.names = FALSE)
+--> We can load our tables into R the following way: <!--
+
+table1 <- read.csv(file = "solution-concentration-effect-on-potato.csv")
+table2 <- read.csv(file = "solution-concentration-effect-on-potato-averages.csv")
+table1
+table2
+
+--> Here, we used the function <code>read.csv</code> for reading in our data files in CSV format.</p>
 
 </div>
             </section>

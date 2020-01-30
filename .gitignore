@@ -381,3 +381,4 @@ TSWLatexianTemp*
 *.glstex
 
 # Created by https://www.gitignore.io/api/r,linux,macos,latex,windows
+.Rproj.user
