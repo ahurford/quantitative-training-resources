@@ -1,3 +1,26 @@
+Meeting with Yolanda Jan 30, 2020:
+
+Outline for new lab:
+1. Intro to R
+1. Entering data exercise. Identify relevant data. Data should be discrete with at least 3 groups. Export from R as .csv, write metadata. Submit to dropbox. 
+1. Plot data to replicate a bar chart. Replot as box plot. Save in .pdf or related format.
+1. Practice writing hypothesis, prediction, and equation (i.e., equation is means of groups not equal in notation).
+1. Repeat plotting for data with continuous independent variable.
+1. Practice writing equation for data with continuous independent variable.
+
+Each of these 6 sub-components should be planned for ~30 mins.
+
+Current work
+
+Amy - will try to improve on directives for others.
+
+Joany - currently working on the quantitative training manual. The manual needs a bit of reorganizing. Irrelevant files need to be deleted. Do we have anything written about metadata?
+
+Yolanda - is taking a start on finding data for new lab. Also would like to pilot the training manual for class, so finishing this might need to take more of a priority.
+
+Shawn - was going to write about how to do predictions as equations.
+
+-----------
 Current work as of Jan 9, 2020:
 
 Joany - Start working on a section in the quant guide regarding how to save data as a .csv, i.e., based on what is written under Tables here https://github.com/ahurford/quantitative-training-resources/blob/master/Labs/1001/1001.md.
