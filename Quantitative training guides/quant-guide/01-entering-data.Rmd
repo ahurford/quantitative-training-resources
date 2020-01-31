@@ -17,55 +17,55 @@ Let's start by
 making table 1 for your report, which we will call 
 `solution-concentration-effect-on-potato.csv`:
 
-<!--  Joany I had to comment this out as it was giving an error:
-Quitting from lines 43-49 (quant-guide.Rmd) 
-Error in parse(text = x, srcfile = src) : <text>:2:37: unexpected '='
-1: table1 <- data.frame(weight = c("initial", "final", "difference", "percent-change"), 
-2:                      NaCl-0-percent =
-                                       ^
-Calls: <Anonymous> ... <Anonymous> -> parse_all -> parse_all.character -> parse
-Execution halted
+```{r}
+table1 <- data.frame(weight = c("initial", "final", 
+                                "difference", "percent-change"), 
+                     "NaCl-0-percent" = c(NA, NA, NA, NA), 
+                     "NaCl-0.9-percent" = c(NA, NA, NA, NA), 
+                     "NaCl-2-percent" = c(NA, NA, NA, NA), 
+                     "NaCl-5-percent" = c(NA, NA, NA, NA))
+write.csv(x = table1, file = "solution-concentration-effect-on-potato.csv", 
+          row.names = FALSE)
+```
 
-Exited with status 1.
+In the above code, make sure to replace the `NA`'s with the values from your experiment. 
+Keep in mind that the values entered into the tables should be 
+decimals greater than or equal to zero, and likely less than
+100 since you measured mass in grams and the potato
+cubes for the experiments were 8 cm^3^ in size. 
 
------
-I also had to delete the ```{r} and ``` parts to get the bookdown to compile
-
-table1 <- data.frame(weight = c("initial", "final", "difference", "percent-change"), 
-                     NaCl-0-percent = c(, , ,), 
-                     NaCl-0.9-percent = c(, , ,), 
-                     NaCl-2-percent = c(, , ,), 
-                     NaCl-5-percent = c(, , ,), 
-write.csv(x = table1, file = "solution-concentration-effect-on-potato.csv", row.names = FALSE)
---> 
 Notice that we used the file extension ".csv".  
 CSV stands for comma-separated values, which is a format for 
 tabular data stored in a text file where a comma separates the columns of the data. 
 That is why a comma separates each of the values in the rows for the different solutions. 
 
-Keep in mind that the values entered into the tables should be 
-decimals greater than or equal to zero, and likely less than
-100 since you measured mass in grams and the potato
-cubes for the experiments were 8cm^3 in size. 
-
 Now, we will make table 2, which includes the class averages and we will call 
 `solution-concentration-effect-on-potato-averages.csv`:
-<!--
-table2 <- data.frame(weight = c("percent-change", "minimum-value", "maximum-value", "difference"), 
-                     NaCl-0-percent = c(, , ,), 
-                     NaCl-0.9-percent = c(, , ,), 
-                     NaCl-2-percent = c(, , ,), 
-                     NaCl-5-percent = c(, , ,), 
-write.csv(x = table1, file = "solution-concentration-effect-on-potato-averages.csv", row.names = FALSE)
---> 
-We can load our tables into R the following way:
-<!--
 
-table1 <- read.csv(file = "solution-concentration-effect-on-potato.csv")
-table2 <- read.csv(file = "solution-concentration-effect-on-potato-averages.csv")
-table1
-table2
+```{r}
+table2 <- data.frame(weight = c("percent-change", "minimum-value", 
+                                "maximum-value", "difference"), 
+                     "NaCl-0-percent" = c(NA, NA, NA, NA), 
+                     "NaCl-0.9-percent" = c(NA, NA, NA, NA), 
+                     "NaCl-2-percent" = c(NA, NA, NA, NA), 
+                     "NaCl-5-percent" = c(NA, NA, NA, NA))
+write.csv(x = table1, file = "solution-concentration-effect-on-potato-averages.csv", 
+          row.names = FALSE)
+```
 
--->
-Here, we used the function `read.csv` for reading in our data files
-in CSV format.
+We can load our our data files in CSV format into R using the function `read.csv` in the following way:
+
+```{r}
+data1 <- read.csv(file = "solution-concentration-effect-on-potato.csv")
+data2 <- read.csv(file = "solution-concentration-effect-on-potato-averages.csv")
+```
+
+Here, the argument `file =` of `read.csv` is the name of the file we want to read.
+Notice that the filename needs to be a character string, so we put it in quotes.
+
+To take a look at our data, we can print then by typing the name and hitting Enter (or Return).
+
+```{r}
+data1
+data2
+```
