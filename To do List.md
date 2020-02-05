@@ -14,7 +14,7 @@ Current work
 
 Amy - will try to improve on directives for others.
 
-Joany - currently working on the quantitative training manual. The manual needs a bit of reorganizing. Irrelevant files need to be deleted. Do we have anything written about metadata? Also, format the Brightspace data repository. Talk to Amy about how to do this.
+Joany - currently working on the quantitative training manual. The manual needs a bit of reorganizing. Irrelevant files need to be deleted. Do we have anything written about metadata? Also, format the Brightspace data repository. Talk to Amy about how to do this. New .docx file added which is an outline for the new lab. Yolanda has instructions wrt to datafile. Also, this .docx file needs to be converted into .Rmd to add it to the quant training manual.
 
 Yolanda - is taking a start on finding data for new lab. Also would like to pilot the training manual for class, so finishing this might need to take more of a priority.
 
