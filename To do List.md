@@ -23,7 +23,7 @@ Shawn - was going to write about how to do predictions as equations.
 -----------
 Current work as of Jan 9, 2020:
 
-Joany - Start working on a section in the quant guide regarding how to save data as a .csv, i.e., based on what is written under Tables here https://github.com/ahurford/quantitative-training-resources/blob/master/Labs/1001/1001.md.
+Joany - Start working on a section in the quant guide regarding how to save data as a .csv, i.e., based on what is written under Tables here https://github.com/ahurford/quantitative-training-resources/blob/master/Labs/1001/1001.md. - Done.
 
 Yolanda - On Thursday mornings is editing the first-year-guide in bookdown. Next will be uploading data into R and getting help.
 
