@@ -1,6 +1,0 @@
-# Submitting your data to a repository
-
-
-# Data submission
-- via upload file into github
-- direct edit of github

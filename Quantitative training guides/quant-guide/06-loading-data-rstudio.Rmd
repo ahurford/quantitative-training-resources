@@ -1,1 +1,0 @@
-# A simple approach for loading data into RStudio {#load-data}
