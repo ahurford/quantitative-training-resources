@@ -15,6 +15,10 @@ Introductory statistics (online free textbook): https://openstax.org/details/boo
 
 Data vizualization https://github.com/lockedata/datasauRus
 
+Advanced R https://adv-r.hadley.nz/
+
+Efficient R https://csgillespie.github.io/efficientR/
+
 # Books requested to be purchased at QEII
 - Biocalculus, probability, and statistics for the life sciences by James Stewart and Troy Day
 - Modeling the dynamics of life: calculus and probability for the life scientists by Frederick Adler
@@ -70,3 +74,5 @@ Undegrad-level Computational Bio-statistics (1st and 2nd year) from Imperial Col
 Statistics - An Introduction using R: http://www.bio.ic.ac.uk/research/crawley/statistics/ (data & exercises from Mick Crawley's Intro to Stats course at Imperial College London, discountinued in 2014 after he retired)
 
 BIOL 4605 at MUN: http://www.mun.ca/biology/schneider/b4605/
+
+RStudio Primers: https://rstudio.cloud/learn/primers
