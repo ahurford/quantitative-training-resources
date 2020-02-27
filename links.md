@@ -62,6 +62,8 @@ Great tips for making R fun: https://twitter.com/joyrevisited/status/11973114760
 
 Package to make plotting easier: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000202
 
+Ten common statistical mistakes to watch out for when writing or reviewing a manuscript. 2020. Makin and Xivry. elife.
+
 # Video
 Recommended viewing for first year students: https://www.youtube.com/watch?v=UJQ1F9dirRg&feature=youtu.be
 
