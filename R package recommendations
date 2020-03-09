@@ -1,18 +1,45 @@
 Please edit this page to add your recommended R packages for all computers in biology:
 
-1. ggplot2
+# Dataframe 
 1. dplyr
-1. bbmle
-1. chron
-1. deSolve
-1. maps
-1. markdown
-1. rmarkdown
-1. shiny
+1. data.table
 1. tidyr
-1. abind: combine multidimensional arrays
-1. vegan: biodiversity analysis
-1. devtools: developer tools
-1. lubridate: working with dates
+1. chron
 
-* In the computer labs, it may be better to install tidyverse instead of the individual packages from the tidyverse universe (e.g. ggplot2, dplyr, shiny).
+
+# Figures/Graphics
+1. ggplot2
+1. gridExtra
+
+
+# Reproducible research
+1. markdown
+1. knitr
+1. tinytex (install followed by `tinytex::install_tinytex()`)
+1. kableExtra
+1. magrittr
+
+
+# Modeling 
+1. bbmle
+1. ade4
+1. broom
+1. deSolve
+1. lme4
+
+# Spatial data
+1. sf
+1. sp
+1. rgdal (system dependencies: `GDAL`)
+1. rgeos (system dependencies: `GEOS`)
+1. raster
+1. maps
+1. mapview
+
+# Etc
+1. devtools
+1. remotes
+1. shiny
+1. Rcpp
+
+
