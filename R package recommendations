@@ -7,5 +7,12 @@ Please edit this page to add your recommended R packages for all computers in bi
 1. deSolve
 1. maps
 1. markdown
+1. rmarkdown
 1. shiny
 1. tidyr
+1. abind: combine multidimensional arrays
+1. vegan: biodiversity analysis
+1. devtools: developer tools
+1. lubridate: working with dates
+
+* In the computer labs, it may be better to install tidyverse instead of the individual packages from the tidyverse universe (e.g. ggplot2, dplyr, shiny).
