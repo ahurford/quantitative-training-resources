@@ -1,15 +1,20 @@
 Please edit this page to add your recommended R packages for all computers in biology:
 
-# Dataframe 
+# Dataframe
 1. dplyr
 1. data.table
 1. tidyr
 1. chron
+1. reshape2
 
 
 # Figures/Graphics
 1. ggplot2
 1. gridExtra
+1. tmap
+1. ggpol (adds new geoms to ggplot2, including more data-transparent boxplots)
+1. patchwork (easy layout of multi-panel figures)
+1. RColorBrewer
 
 
 # Reproducible research
@@ -18,14 +23,18 @@ Please edit this page to add your recommended R packages for all computers in bi
 1. tinytex (install followed by `tinytex::install_tinytex()`)
 1. kableExtra
 1. magrittr
+1. stargazer
+1. gt
 
 
-# Modeling 
+# Modeling
 1. bbmle
 1. ade4
 1. broom
 1. deSolve
 1. lme4
+1. AICcmodavg
+1. lindia
 
 # Spatial data
 1. sf
@@ -35,11 +44,12 @@ Please edit this page to add your recommended R packages for all computers in bi
 1. raster
 1. maps
 1. mapview
+1. maptools
+1. rasterVis
 
 # Etc
 1. devtools
 1. remotes
 1. shiny
 1. Rcpp
-
-
+1. easypackages
