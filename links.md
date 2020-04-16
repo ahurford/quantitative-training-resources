@@ -30,6 +30,8 @@ Efficient R https://csgillespie.github.io/efficientR/
 - deVeaux (accessible, well done, stats text)
 
 # Links to articles
+Paper from Ted about number of significant figures to report: https://arxiv.org/ftp/arxiv/papers/1301/1301.1034.pdf
+
 Skills and knowledge for Data-Intensive Environmental Research: https://academic.oup.com/bioscience/article/67/6/546/3784601
 
 Data archiving: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097
