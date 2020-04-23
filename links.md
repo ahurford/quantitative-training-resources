@@ -66,6 +66,8 @@ Package to make plotting easier: https://journals.plos.org/plosbiology/article?i
 
 Ten common statistical mistakes to watch out for when writing or reviewing a manuscript. 2020. Makin and Xivry. elife.
 
+Teaching R in the undergraduate ecology classroom: approaches, lessons learned, and recommendations https://esajournals-onlinelibrary-wiley-com.qe2a-proxy.mun.ca/doi/full/10.1002/ecs2.3060
+
 # Video
 Recommended viewing for first year students: https://www.youtube.com/watch?v=UJQ1F9dirRg&feature=youtu.be
 
