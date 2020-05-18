@@ -19,6 +19,8 @@ Advanced R https://adv-r.hadley.nz/
 
 Efficient R https://csgillespie.github.io/efficientR/
 
+R book https://alexd106.github.io/Rbook/
+
 # Books requested to be purchased at QEII
 - Biocalculus, probability, and statistics for the life sciences by James Stewart and Troy Day
 - Modeling the dynamics of life: calculus and probability for the life scientists by Frederick Adler
