@@ -21,6 +21,8 @@ Efficient R https://csgillespie.github.io/efficientR/
 
 R book https://alexd106.github.io/Rbook/
 
+Statistical Inference via Data Science: A ModernDive into R and the tidyverse: https://moderndive.com/
+
 # Books requested to be purchased at QEII
 - Biocalculus, probability, and statistics for the life sciences by James Stewart and Troy Day
 - Modeling the dynamics of life: calculus and probability for the life scientists by Frederick Adler
@@ -77,10 +79,19 @@ Recommended viewing for first year students: https://www.youtube.com/watch?v=UJQ
 Best practices for effective pedagogy with a focus in scientific programming: https://carpentries.github.io/instructor-training/  
 
 # Teaching Materials
+
+RStudio Primers: https://rstudio.cloud/learn/primers
+
 Undegrad-level Computational Bio-statistics (1st and 2nd year) from Imperial College London: https://bitbucket.org/mhasoba/iccompbiostat/src/master/
 
 Statistics - An Introduction using R: http://www.bio.ic.ac.uk/research/crawley/statistics/ (data & exercises from Mick Crawley's Intro to Stats course at Imperial College London, discountinued in 2014 after he retired)
 
 BIOL 4605 at MUN: http://www.mun.ca/biology/schneider/b4605/
 
-RStudio Primers: https://rstudio.cloud/learn/primers
+Smith College “SDS192 Introduction to Data Science”: https://rudeboybert.github.io/SDS192/ (website of a course that used the Statistical Inference via Data Science ModernDive book)
+
+Smith College “SDS220 Introduction to Probability and Statistics”: https://rudeboybert.github.io/SDS220/ (another website of a course that used the Statistical Inference via Data Science ModernDive book)
+
+# Example labs and data sets
+
+ModernDive Labs and Problem Sets: https://moderndive.github.io/moderndive_labs/index.html
