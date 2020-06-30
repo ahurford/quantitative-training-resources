@@ -23,6 +23,8 @@ R book https://alexd106.github.io/Rbook/
 
 Statistical Inference via Data Science: A ModernDive into R and the tidyverse: https://moderndive.com/
 
+Data Analysis and Processing with R based on IBIS (Infant Brain Imaging Study) data: https://bookdown.org/kdonovan125/ibis_data_analysis_r4/ (a general data analysis introduction in R)
+
 # Books requested to be purchased at QEII
 - Biocalculus, probability, and statistics for the life sciences by James Stewart and Troy Day
 - Modeling the dynamics of life: calculus and probability for the life scientists by Frederick Adler
