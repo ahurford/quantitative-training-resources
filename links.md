@@ -74,6 +74,8 @@ Ten common statistical mistakes to watch out for when writing or reviewing a man
 
 Teaching R in the undergraduate ecology classroom: approaches, lessons learned, and recommendations https://esajournals-onlinelibrary-wiley-com.qe2a-proxy.mun.ca/doi/full/10.1002/ecs2.3060
 
+Coding and communication: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2469?campaign=woletoc
+
 # Video
 Recommended viewing for first year students: https://www.youtube.com/watch?v=UJQ1F9dirRg&feature=youtu.be
 
