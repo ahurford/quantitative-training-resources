@@ -1,0 +1,18 @@
+# Report for the quantitative survey (May 26)
+
+- 7 faculty requested support for developing quant training materials (Dufour - BIOL 3711, Schneider - 4605, Pena-Castillo - BIOL 3951, Miller - BIOL 4505 and 4630, Vander Wal - BIOL 2210, Roncal - BIOL 2900, and Leroux - BIOL 4306)
+
+Q: What are the most important actions we should take to improve data science, coding, modelling, and statistics skills amongst our Biology undergraduates?
+- More R labs at all course levels (x3)
+- A second year BIOL intro to biostats/programming course. (Leroux)
+- Clear year-by-year training objectives worked into existing courses (Vander Wal, Dufour, Pena-Castillo)
+- Expansion of emphasis of the quantitative training program in the areas of modelling, statistics, coding in other languages, data visualization principles? (x2)
+- Do we need to require that Biology students take ST2550?  For many years B4605 was delivered  at a level making it an alternative to ST2550.  B4605 then evolved  from a GLM course (normal error) often taken by 3rd years  students,  to a generalized linear model course, which suits the needs of grad students.  
+In my view we need to move beyond P<0.05 (as in ST2550) and teach statistical science (Nelder 1999 Journal of the Royal Statistical Society: Series D 48: 257-269)
+https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/1467-9884.00187
+This in turn means learning to write the statistical model, to check it (no p-values!!), to execute it, and to interpret the results relative to the research question. This is far more useful than any course that consists of a battery name tests.  I can attest, from decades of experience, that students retain the capacity to write the model for years after they have taken B4605 of B7220.  It is a skill transferable to any package, not an r skill. In my view moving from statistics to statistical science (Nelder 1999) should be encouraged throughout the faculty of science.
+- Establishment of a Quant stream (Pena-Castillo)
+
+Comments
+- Suggestion of monthly roundtable and more invitations to faculty to participate
+- I do not think that data management in any scripting language is necessary at the undergraduate level.  Spreadsheets are readily learned because we are visual creatures. Spreadsheets are useful outside those parts of the academy that use SPSS, or r, or whatever.   Spreadsheets are ubiquitous outside the  academy.
